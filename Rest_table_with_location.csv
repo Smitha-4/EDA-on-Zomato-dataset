@@ -1,0 +1,619 @@
+location,rest_type,listed_in(type),name,online_order,book_table,rate,votes,dish_liked,cuisines,approx_cost(for two people)
+BTM,Cafe,Cafes,19,19,19,19,19,19,19,19
+BTM,Cafe,Delivery,34,34,34,34,34,34,34,34
+BTM,Cafe,Dine-out,22,22,22,22,22,22,22,22
+BTM,Casual Dining,Buffet,2,2,2,2,2,2,2,2
+BTM,Casual Dining,Delivery,140,140,140,140,140,140,140,140
+BTM,Casual Dining,Dine-out,82,82,82,82,82,82,82,82
+BTM,Delivery,Delivery,92,92,92,92,92,92,92,92
+BTM,Delivery,Desserts,5,5,5,5,5,5,5,5
+BTM,Dessert Parlor,Delivery,51,51,51,51,51,51,51,51
+BTM,Dessert Parlor,Desserts,22,22,22,22,22,22,22,22
+BTM,Dessert Parlor,Dine-out,3,3,3,3,3,3,3,3
+BTM,Quick Bites,Delivery,658,658,658,658,658,658,658,658
+BTM,Quick Bites,Dine-out,469,469,469,469,469,469,469,469
+BTM,"Takeaway, Delivery",Delivery,129,129,129,129,129,129,129,129
+BTM,"Takeaway, Delivery",Desserts,3,3,3,3,3,3,3,3
+BTM,others,Buffet,5,5,5,5,5,5,5,5
+BTM,others,Cafes,8,8,8,8,8,8,8,8
+BTM,others,Delivery,155,155,155,155,155,155,155,155
+BTM,others,Desserts,41,41,41,41,41,41,41,41
+BTM,others,Dine-out,35,35,35,35,35,35,35,35
+BTM,others,Drinks & nightlife,13,13,13,13,13,13,13,13
+BTM,others,Pubs and bars,9,9,9,9,9,9,9,9
+Banashankari,Cafe,Cafes,9,9,9,9,9,9,9,9
+Banashankari,Cafe,Delivery,8,8,8,8,8,8,8,8
+Banashankari,Cafe,Desserts,1,1,1,1,1,1,1,1
+Banashankari,Cafe,Dine-out,7,7,7,7,7,7,7,7
+Banashankari,Casual Dining,Buffet,3,3,3,3,3,3,3,3
+Banashankari,Casual Dining,Delivery,32,32,32,32,32,32,32,32
+Banashankari,Casual Dining,Dine-out,34,34,34,34,34,34,34,34
+Banashankari,Delivery,Delivery,12,12,12,12,12,12,12,12
+Banashankari,Delivery,Desserts,1,1,1,1,1,1,1,1
+Banashankari,Dessert Parlor,Delivery,15,15,15,15,15,15,15,15
+Banashankari,Dessert Parlor,Desserts,20,20,20,20,20,20,20,20
+Banashankari,Quick Bites,Buffet,1,1,1,1,1,1,1,1
+Banashankari,Quick Bites,Delivery,97,97,97,97,97,97,97,97
+Banashankari,Quick Bites,Dine-out,117,117,117,117,117,117,117,117
+Banashankari,"Takeaway, Delivery",Delivery,2,2,2,2,2,2,2,2
+Banashankari,"Takeaway, Delivery",Desserts,1,1,1,1,1,1,1,1
+Banashankari,others,Delivery,22,22,22,22,22,22,22,22
+Banashankari,others,Desserts,20,20,20,20,20,20,20,20
+Banashankari,others,Dine-out,17,17,17,17,17,17,17,17
+Banashankari,others,Drinks & nightlife,11,11,11,11,11,11,11,11
+Banaswadi,Cafe,Cafes,12,12,12,12,12,12,12,12
+Banaswadi,Cafe,Delivery,8,8,8,8,8,8,8,8
+Banaswadi,Cafe,Desserts,2,2,2,2,2,2,2,2
+Banaswadi,Cafe,Dine-out,10,10,10,10,10,10,10,10
+Banaswadi,Casual Dining,Delivery,17,17,17,17,17,17,17,17
+Banaswadi,Casual Dining,Dine-out,17,17,17,17,17,17,17,17
+Banaswadi,Dessert Parlor,Delivery,4,4,4,4,4,4,4,4
+Banaswadi,Dessert Parlor,Desserts,4,4,4,4,4,4,4,4
+Banaswadi,Quick Bites,Delivery,62,62,62,62,62,62,62,62
+Banaswadi,Quick Bites,Dine-out,58,58,58,58,58,58,58,58
+Banaswadi,"Takeaway, Delivery",Delivery,10,10,10,10,10,10,10,10
+Banaswadi,"Takeaway, Delivery",Desserts,4,4,4,4,4,4,4,4
+Banaswadi,others,Delivery,21,21,21,21,21,21,21,21
+Banaswadi,others,Desserts,13,13,13,13,13,13,13,13
+Banaswadi,others,Dine-out,8,8,8,8,8,8,8,8
+Banaswadi,others,Drinks & nightlife,2,2,2,2,2,2,2,2
+Bannerghatta Road,Cafe,Cafes,10,10,10,10,10,10,10,10
+Bannerghatta Road,Cafe,Delivery,10,10,10,10,10,10,10,10
+Bannerghatta Road,Cafe,Desserts,1,1,1,1,1,1,1,1
+Bannerghatta Road,Cafe,Dine-out,9,9,9,9,9,9,9,9
+Bannerghatta Road,Casual Dining,Delivery,80,80,80,80,80,80,80,80
+Bannerghatta Road,Casual Dining,Dine-out,56,56,56,56,56,56,56,56
+Bannerghatta Road,Delivery,Delivery,31,31,31,31,31,31,31,31
+Bannerghatta Road,Delivery,Desserts,2,2,2,2,2,2,2,2
+Bannerghatta Road,Dessert Parlor,Delivery,22,22,22,22,22,22,22,22
+Bannerghatta Road,Dessert Parlor,Desserts,19,19,19,19,19,19,19,19
+Bannerghatta Road,Quick Bites,Delivery,144,144,144,144,144,144,144,144
+Bannerghatta Road,Quick Bites,Dine-out,130,130,130,130,130,130,130,130
+Bannerghatta Road,"Takeaway, Delivery",Delivery,19,19,19,19,19,19,19,19
+Bannerghatta Road,"Takeaway, Delivery",Desserts,5,5,5,5,5,5,5,5
+Bannerghatta Road,others,Cafes,3,3,3,3,3,3,3,3
+Bannerghatta Road,others,Delivery,36,36,36,36,36,36,36,36
+Bannerghatta Road,others,Desserts,21,21,21,21,21,21,21,21
+Bannerghatta Road,others,Dine-out,29,29,29,29,29,29,29,29
+Bannerghatta Road,others,Drinks & nightlife,1,1,1,1,1,1,1,1
+Basavanagudi,Cafe,Cafes,3,3,3,3,3,3,3,3
+Basavanagudi,Cafe,Delivery,9,9,9,9,9,9,9,9
+Basavanagudi,Cafe,Dine-out,3,3,3,3,3,3,3,3
+Basavanagudi,Casual Dining,Buffet,2,2,2,2,2,2,2,2
+Basavanagudi,Casual Dining,Delivery,18,18,18,18,18,18,18,18
+Basavanagudi,Casual Dining,Desserts,1,1,1,1,1,1,1,1
+Basavanagudi,Casual Dining,Dine-out,21,21,21,21,21,21,21,21
+Basavanagudi,Dessert Parlor,Delivery,17,17,17,17,17,17,17,17
+Basavanagudi,Dessert Parlor,Desserts,17,17,17,17,17,17,17,17
+Basavanagudi,Quick Bites,Delivery,104,104,104,104,104,104,104,104
+Basavanagudi,Quick Bites,Dine-out,96,96,96,96,96,96,96,96
+Basavanagudi,"Takeaway, Delivery",Delivery,3,3,3,3,3,3,3,3
+Basavanagudi,others,Delivery,16,16,16,16,16,16,16,16
+Basavanagudi,others,Desserts,16,16,16,16,16,16,16,16
+Basavanagudi,others,Dine-out,3,3,3,3,3,3,3,3
+Basavanagudi,others,Drinks & nightlife,3,3,3,3,3,3,3,3
+Bellandur,Cafe,Cafes,11,11,11,11,11,11,11,11
+Bellandur,Cafe,Dine-out,11,11,11,11,11,11,11,11
+Bellandur,Casual Dining,Buffet,4,4,4,4,4,4,4,4
+Bellandur,Casual Dining,Delivery,43,43,43,43,43,43,43,43
+Bellandur,Casual Dining,Dine-out,46,46,46,46,46,46,46,46
+Bellandur,Delivery,Delivery,18,18,18,18,18,18,18,18
+Bellandur,Dessert Parlor,Delivery,12,12,12,12,12,12,12,12
+Bellandur,Dessert Parlor,Desserts,9,9,9,9,9,9,9,9
+Bellandur,Quick Bites,Delivery,118,118,118,118,118,118,118,118
+Bellandur,Quick Bites,Dine-out,112,112,112,112,112,112,112,112
+Bellandur,"Takeaway, Delivery",Delivery,10,10,10,10,10,10,10,10
+Bellandur,others,Buffet,6,6,6,6,6,6,6,6
+Bellandur,others,Cafes,1,1,1,1,1,1,1,1
+Bellandur,others,Delivery,45,45,45,45,45,45,45,45
+Bellandur,others,Desserts,26,26,26,26,26,26,26,26
+Bellandur,others,Dine-out,48,48,48,48,48,48,48,48
+Bellandur,others,Drinks & nightlife,6,6,6,6,6,6,6,6
+Bellandur,others,Pubs and bars,6,6,6,6,6,6,6,6
+Brigade Road,Cafe,Cafes,14,14,14,14,14,14,14,14
+Brigade Road,Cafe,Delivery,9,9,9,9,9,9,9,9
+Brigade Road,Cafe,Desserts,3,3,3,3,3,3,3,3
+Brigade Road,Cafe,Dine-out,9,9,9,9,9,9,9,9
+Brigade Road,Casual Dining,Delivery,38,38,38,38,38,38,38,38
+Brigade Road,Casual Dining,Dine-out,36,36,36,36,36,36,36,36
+Brigade Road,Dessert Parlor,Delivery,29,29,29,29,29,29,29,29
+Brigade Road,Dessert Parlor,Desserts,33,33,33,33,33,33,33,33
+Brigade Road,Dessert Parlor,Dine-out,5,5,5,5,5,5,5,5
+Brigade Road,Quick Bites,Delivery,61,61,61,61,61,61,61,61
+Brigade Road,Quick Bites,Dine-out,41,41,41,41,41,41,41,41
+Brigade Road,others,Delivery,29,29,29,29,29,29,29,29
+Brigade Road,others,Desserts,22,22,22,22,22,22,22,22
+Brigade Road,others,Dine-out,31,31,31,31,31,31,31,31
+Brigade Road,others,Drinks & nightlife,19,19,19,19,19,19,19,19
+Brigade Road,others,Pubs and bars,6,6,6,6,6,6,6,6
+Brookefield,Cafe,Cafes,3,3,3,3,3,3,3,3
+Brookefield,Cafe,Dine-out,3,3,3,3,3,3,3,3
+Brookefield,Casual Dining,Delivery,20,20,20,20,20,20,20,20
+Brookefield,Casual Dining,Dine-out,21,21,21,21,21,21,21,21
+Brookefield,Delivery,Delivery,2,2,2,2,2,2,2,2
+Brookefield,Dessert Parlor,Delivery,15,15,15,15,15,15,15,15
+Brookefield,Dessert Parlor,Desserts,10,10,10,10,10,10,10,10
+Brookefield,Quick Bites,Delivery,75,75,75,75,75,75,75,75
+Brookefield,Quick Bites,Dine-out,61,61,61,61,61,61,61,61
+Brookefield,"Takeaway, Delivery",Delivery,3,3,3,3,3,3,3,3
+Brookefield,others,Buffet,2,2,2,2,2,2,2,2
+Brookefield,others,Delivery,30,30,30,30,30,30,30,30
+Brookefield,others,Desserts,13,13,13,13,13,13,13,13
+Brookefield,others,Dine-out,15,15,15,15,15,15,15,15
+Church Street,Cafe,Cafes,11,11,11,11,11,11,11,11
+Church Street,Cafe,Dine-out,10,10,10,10,10,10,10,10
+Church Street,Casual Dining,Delivery,25,25,25,25,25,25,25,25
+Church Street,Casual Dining,Dine-out,33,33,33,33,33,33,33,33
+Church Street,Dessert Parlor,Delivery,18,18,18,18,18,18,18,18
+Church Street,Dessert Parlor,Desserts,19,19,19,19,19,19,19,19
+Church Street,Dessert Parlor,Dine-out,5,5,5,5,5,5,5,5
+Church Street,Quick Bites,Delivery,32,32,32,32,32,32,32,32
+Church Street,Quick Bites,Dine-out,25,25,25,25,25,25,25,25
+Church Street,others,Buffet,5,5,5,5,5,5,5,5
+Church Street,others,Delivery,8,8,8,8,8,8,8,8
+Church Street,others,Desserts,5,5,5,5,5,5,5,5
+Church Street,others,Dine-out,5,5,5,5,5,5,5,5
+Church Street,others,Drinks & nightlife,1,1,1,1,1,1,1,1
+Church Street,others,Pubs and bars,2,2,2,2,2,2,2,2
+Electronic City,Cafe,Cafes,3,3,3,3,3,3,3,3
+Electronic City,Cafe,Delivery,2,2,2,2,2,2,2,2
+Electronic City,Cafe,Dine-out,2,2,2,2,2,2,2,2
+Electronic City,Casual Dining,Buffet,2,2,2,2,2,2,2,2
+Electronic City,Casual Dining,Delivery,34,34,34,34,34,34,34,34
+Electronic City,Casual Dining,Desserts,1,1,1,1,1,1,1,1
+Electronic City,Casual Dining,Dine-out,45,45,45,45,45,45,45,45
+Electronic City,Delivery,Delivery,8,8,8,8,8,8,8,8
+Electronic City,Delivery,Desserts,1,1,1,1,1,1,1,1
+Electronic City,Dessert Parlor,Delivery,9,9,9,9,9,9,9,9
+Electronic City,Dessert Parlor,Desserts,10,10,10,10,10,10,10,10
+Electronic City,Quick Bites,Delivery,87,87,87,87,87,87,87,87
+Electronic City,Quick Bites,Desserts,1,1,1,1,1,1,1,1
+Electronic City,Quick Bites,Dine-out,101,101,101,101,101,101,101,101
+Electronic City,"Takeaway, Delivery",Delivery,11,11,11,11,11,11,11,11
+Electronic City,others,Cafes,1,1,1,1,1,1,1,1
+Electronic City,others,Delivery,28,28,28,28,28,28,28,28
+Electronic City,others,Desserts,14,14,14,14,14,14,14,14
+Electronic City,others,Dine-out,20,20,20,20,20,20,20,20
+Electronic City,others,Drinks & nightlife,7,7,7,7,7,7,7,7
+Electronic City,others,Pubs and bars,5,5,5,5,5,5,5,5
+Frazer Town,Cafe,Cafes,7,7,7,7,7,7,7,7
+Frazer Town,Cafe,Delivery,14,14,14,14,14,14,14,14
+Frazer Town,Cafe,Dine-out,6,6,6,6,6,6,6,6
+Frazer Town,Casual Dining,Delivery,32,32,32,32,32,32,32,32
+Frazer Town,Casual Dining,Dine-out,16,16,16,16,16,16,16,16
+Frazer Town,Delivery,Delivery,10,10,10,10,10,10,10,10
+Frazer Town,Delivery,Desserts,1,1,1,1,1,1,1,1
+Frazer Town,Dessert Parlor,Delivery,21,21,21,21,21,21,21,21
+Frazer Town,Dessert Parlor,Desserts,12,12,12,12,12,12,12,12
+Frazer Town,Quick Bites,Delivery,87,87,87,87,87,87,87,87
+Frazer Town,Quick Bites,Desserts,1,1,1,1,1,1,1,1
+Frazer Town,Quick Bites,Dine-out,41,41,41,41,41,41,41,41
+Frazer Town,"Takeaway, Delivery",Delivery,10,10,10,10,10,10,10,10
+Frazer Town,"Takeaway, Delivery",Desserts,3,3,3,3,3,3,3,3
+Frazer Town,others,Cafes,1,1,1,1,1,1,1,1
+Frazer Town,others,Delivery,24,24,24,24,24,24,24,24
+Frazer Town,others,Desserts,28,28,28,28,28,28,28,28
+Frazer Town,others,Dine-out,10,10,10,10,10,10,10,10
+HSR,Cafe,Cafes,9,9,9,9,9,9,9,9
+HSR,Cafe,Delivery,8,8,8,8,8,8,8,8
+HSR,Cafe,Desserts,1,1,1,1,1,1,1,1
+HSR,Cafe,Dine-out,9,9,9,9,9,9,9,9
+HSR,Casual Dining,Buffet,3,3,3,3,3,3,3,3
+HSR,Casual Dining,Delivery,101,101,101,101,101,101,101,101
+HSR,Casual Dining,Dine-out,50,50,50,50,50,50,50,50
+HSR,Delivery,Delivery,71,71,71,71,71,71,71,71
+HSR,Delivery,Desserts,1,1,1,1,1,1,1,1
+HSR,Dessert Parlor,Delivery,63,63,63,63,63,63,63,63
+HSR,Dessert Parlor,Desserts,27,27,27,27,27,27,27,27
+HSR,Quick Bites,Delivery,264,264,264,264,264,264,264,264
+HSR,Quick Bites,Dine-out,127,127,127,127,127,127,127,127
+HSR,"Takeaway, Delivery",Delivery,62,62,62,62,62,62,62,62
+HSR,"Takeaway, Delivery",Desserts,5,5,5,5,5,5,5,5
+HSR,others,Delivery,82,82,82,82,82,82,82,82
+HSR,others,Desserts,28,28,28,28,28,28,28,28
+HSR,others,Dine-out,14,14,14,14,14,14,14,14
+HSR,others,Pubs and bars,3,3,3,3,3,3,3,3
+Indiranagar,Cafe,Cafes,23,23,23,23,23,23,23,23
+Indiranagar,Cafe,Delivery,25,25,25,25,25,25,25,25
+Indiranagar,Cafe,Desserts,8,8,8,8,8,8,8,8
+Indiranagar,Cafe,Dine-out,17,17,17,17,17,17,17,17
+Indiranagar,Casual Dining,Buffet,14,14,14,14,14,14,14,14
+Indiranagar,Casual Dining,Delivery,99,99,99,99,99,99,99,99
+Indiranagar,Casual Dining,Desserts,2,2,2,2,2,2,2,2
+Indiranagar,Casual Dining,Dine-out,56,56,56,56,56,56,56,56
+Indiranagar,Delivery,Delivery,58,58,58,58,58,58,58,58
+Indiranagar,Delivery,Desserts,3,3,3,3,3,3,3,3
+Indiranagar,Dessert Parlor,Delivery,56,56,56,56,56,56,56,56
+Indiranagar,Dessert Parlor,Desserts,37,37,37,37,37,37,37,37
+Indiranagar,Quick Bites,Cafes,2,2,2,2,2,2,2,2
+Indiranagar,Quick Bites,Delivery,131,131,131,131,131,131,131,131
+Indiranagar,Quick Bites,Desserts,1,1,1,1,1,1,1,1
+Indiranagar,Quick Bites,Dine-out,88,88,88,88,88,88,88,88
+Indiranagar,"Takeaway, Delivery",Delivery,18,18,18,18,18,18,18,18
+Indiranagar,"Takeaway, Delivery",Desserts,4,4,4,4,4,4,4,4
+Indiranagar,others,Buffet,1,1,1,1,1,1,1,1
+Indiranagar,others,Cafes,5,5,5,5,5,5,5,5
+Indiranagar,others,Delivery,63,63,63,63,63,63,63,63
+Indiranagar,others,Desserts,26,26,26,26,26,26,26,26
+Indiranagar,others,Dine-out,9,9,9,9,9,9,9,9
+Indiranagar,others,Drinks & nightlife,5,5,5,5,5,5,5,5
+Indiranagar,others,Pubs and bars,7,7,7,7,7,7,7,7
+JP Nagar,Cafe,Cafes,12,12,12,12,12,12,12,12
+JP Nagar,Cafe,Delivery,3,3,3,3,3,3,3,3
+JP Nagar,Cafe,Desserts,2,2,2,2,2,2,2,2
+JP Nagar,Cafe,Dine-out,12,12,12,12,12,12,12,12
+JP Nagar,Casual Dining,Buffet,17,17,17,17,17,17,17,17
+JP Nagar,Casual Dining,Delivery,108,108,108,108,108,108,108,108
+JP Nagar,Casual Dining,Dine-out,100,100,100,100,100,100,100,100
+JP Nagar,Delivery,Delivery,42,42,42,42,42,42,42,42
+JP Nagar,Delivery,Desserts,4,4,4,4,4,4,4,4
+JP Nagar,Dessert Parlor,Delivery,30,30,30,30,30,30,30,30
+JP Nagar,Dessert Parlor,Desserts,36,36,36,36,36,36,36,36
+JP Nagar,Quick Bites,Delivery,140,140,140,140,140,140,140,140
+JP Nagar,Quick Bites,Desserts,3,3,3,3,3,3,3,3
+JP Nagar,Quick Bites,Dine-out,119,119,119,119,119,119,119,119
+JP Nagar,"Takeaway, Delivery",Delivery,34,34,34,34,34,34,34,34
+JP Nagar,"Takeaway, Delivery",Desserts,2,2,2,2,2,2,2,2
+JP Nagar,others,Cafes,3,3,3,3,3,3,3,3
+JP Nagar,others,Delivery,57,57,57,57,57,57,57,57
+JP Nagar,others,Desserts,26,26,26,26,26,26,26,26
+JP Nagar,others,Dine-out,18,18,18,18,18,18,18,18
+JP Nagar,others,Drinks & nightlife,6,6,6,6,6,6,6,6
+Jayanagar,Cafe,Cafes,14,14,14,14,14,14,14,14
+Jayanagar,Cafe,Delivery,10,10,10,10,10,10,10,10
+Jayanagar,Cafe,Desserts,6,6,6,6,6,6,6,6
+Jayanagar,Cafe,Dine-out,12,12,12,12,12,12,12,12
+Jayanagar,Casual Dining,Buffet,8,8,8,8,8,8,8,8
+Jayanagar,Casual Dining,Delivery,102,102,102,102,102,102,102,102
+Jayanagar,Casual Dining,Dine-out,59,59,59,59,59,59,59,59
+Jayanagar,Delivery,Delivery,2,2,2,2,2,2,2,2
+Jayanagar,Delivery,Desserts,2,2,2,2,2,2,2,2
+Jayanagar,Dessert Parlor,Delivery,57,57,57,57,57,57,57,57
+Jayanagar,Dessert Parlor,Desserts,48,48,48,48,48,48,48,48
+Jayanagar,Quick Bites,Delivery,202,202,202,202,202,202,202,202
+Jayanagar,Quick Bites,Desserts,3,3,3,3,3,3,3,3
+Jayanagar,Quick Bites,Dine-out,153,153,153,153,153,153,153,153
+Jayanagar,"Takeaway, Delivery",Delivery,6,6,6,6,6,6,6,6
+Jayanagar,others,Cafes,2,2,2,2,2,2,2,2
+Jayanagar,others,Delivery,55,55,55,55,55,55,55,55
+Jayanagar,others,Desserts,30,30,30,30,30,30,30,30
+Jayanagar,others,Dine-out,14,14,14,14,14,14,14,14
+Kalyan Nagar,Cafe,Cafes,9,9,9,9,9,9,9,9
+Kalyan Nagar,Cafe,Delivery,5,5,5,5,5,5,5,5
+Kalyan Nagar,Cafe,Dine-out,8,8,8,8,8,8,8,8
+Kalyan Nagar,Casual Dining,Buffet,1,1,1,1,1,1,1,1
+Kalyan Nagar,Casual Dining,Cafes,2,2,2,2,2,2,2,2
+Kalyan Nagar,Casual Dining,Delivery,37,37,37,37,37,37,37,37
+Kalyan Nagar,Casual Dining,Desserts,2,2,2,2,2,2,2,2
+Kalyan Nagar,Casual Dining,Dine-out,39,39,39,39,39,39,39,39
+Kalyan Nagar,Delivery,Delivery,15,15,15,15,15,15,15,15
+Kalyan Nagar,Delivery,Desserts,2,2,2,2,2,2,2,2
+Kalyan Nagar,Dessert Parlor,Delivery,10,10,10,10,10,10,10,10
+Kalyan Nagar,Dessert Parlor,Desserts,24,24,24,24,24,24,24,24
+Kalyan Nagar,Quick Bites,Delivery,44,44,44,44,44,44,44,44
+Kalyan Nagar,Quick Bites,Desserts,2,2,2,2,2,2,2,2
+Kalyan Nagar,Quick Bites,Dine-out,58,58,58,58,58,58,58,58
+Kalyan Nagar,"Takeaway, Delivery",Delivery,2,2,2,2,2,2,2,2
+Kalyan Nagar,others,Delivery,12,12,12,12,12,12,12,12
+Kalyan Nagar,others,Desserts,10,10,10,10,10,10,10,10
+Kalyan Nagar,others,Dine-out,4,4,4,4,4,4,4,4
+Kammanahalli,Cafe,Cafes,7,7,7,7,7,7,7,7
+Kammanahalli,Cafe,Delivery,3,3,3,3,3,3,3,3
+Kammanahalli,Cafe,Desserts,2,2,2,2,2,2,2,2
+Kammanahalli,Cafe,Dine-out,4,4,4,4,4,4,4,4
+Kammanahalli,Casual Dining,Delivery,17,17,17,17,17,17,17,17
+Kammanahalli,Casual Dining,Dine-out,18,18,18,18,18,18,18,18
+Kammanahalli,Delivery,Delivery,6,6,6,6,6,6,6,6
+Kammanahalli,Quick Bites,Delivery,56,56,56,56,56,56,56,56
+Kammanahalli,Quick Bites,Desserts,3,3,3,3,3,3,3,3
+Kammanahalli,Quick Bites,Dine-out,44,44,44,44,44,44,44,44
+Kammanahalli,"Takeaway, Delivery",Delivery,5,5,5,5,5,5,5,5
+Kammanahalli,"Takeaway, Delivery",Desserts,2,2,2,2,2,2,2,2
+Kammanahalli,others,Cafes,2,2,2,2,2,2,2,2
+Kammanahalli,others,Delivery,10,10,10,10,10,10,10,10
+Kammanahalli,others,Desserts,2,2,2,2,2,2,2,2
+Kammanahalli,others,Dine-out,6,6,6,6,6,6,6,6
+Kammanahalli,others,Drinks & nightlife,4,4,4,4,4,4,4,4
+Koramangala 1st Block,Cafe,Cafes,9,9,9,9,9,9,9,9
+Koramangala 1st Block,Cafe,Delivery,13,13,13,13,13,13,13,13
+Koramangala 1st Block,Cafe,Dine-out,12,12,12,12,12,12,12,12
+Koramangala 1st Block,Casual Dining,Delivery,28,28,28,28,28,28,28,28
+Koramangala 1st Block,Casual Dining,Dine-out,18,18,18,18,18,18,18,18
+Koramangala 1st Block,Delivery,Delivery,38,38,38,38,38,38,38,38
+Koramangala 1st Block,Dessert Parlor,Delivery,6,6,6,6,6,6,6,6
+Koramangala 1st Block,Dessert Parlor,Desserts,4,4,4,4,4,4,4,4
+Koramangala 1st Block,Quick Bites,Delivery,130,130,130,130,130,130,130,130
+Koramangala 1st Block,Quick Bites,Dine-out,106,106,106,106,106,106,106,106
+Koramangala 1st Block,"Takeaway, Delivery",Delivery,24,24,24,24,24,24,24,24
+Koramangala 1st Block,others,Delivery,33,33,33,33,33,33,33,33
+Koramangala 1st Block,others,Desserts,16,16,16,16,16,16,16,16
+Koramangala 1st Block,others,Dine-out,12,12,12,12,12,12,12,12
+Koramangala 1st Block,others,Drinks & nightlife,3,3,3,3,3,3,3,3
+Koramangala 1st Block,others,Pubs and bars,4,4,4,4,4,4,4,4
+Koramangala 4th Block,Cafe,Cafes,18,18,18,18,18,18,18,18
+Koramangala 4th Block,Cafe,Delivery,11,11,11,11,11,11,11,11
+Koramangala 4th Block,Cafe,Dine-out,18,18,18,18,18,18,18,18
+Koramangala 4th Block,Casual Dining,Buffet,9,9,9,9,9,9,9,9
+Koramangala 4th Block,Casual Dining,Delivery,26,26,26,26,26,26,26,26
+Koramangala 4th Block,Casual Dining,Dine-out,29,29,29,29,29,29,29,29
+Koramangala 4th Block,Delivery,Delivery,44,44,44,44,44,44,44,44
+Koramangala 4th Block,Dessert Parlor,Delivery,21,21,21,21,21,21,21,21
+Koramangala 4th Block,Dessert Parlor,Desserts,17,17,17,17,17,17,17,17
+Koramangala 4th Block,Quick Bites,Delivery,25,25,25,25,25,25,25,25
+Koramangala 4th Block,Quick Bites,Dine-out,24,24,24,24,24,24,24,24
+Koramangala 4th Block,"Takeaway, Delivery",Delivery,10,10,10,10,10,10,10,10
+Koramangala 4th Block,"Takeaway, Delivery",Desserts,4,4,4,4,4,4,4,4
+Koramangala 4th Block,others,Delivery,19,19,19,19,19,19,19,19
+Koramangala 4th Block,others,Desserts,16,16,16,16,16,16,16,16
+Koramangala 4th Block,others,Dine-out,15,15,15,15,15,15,15,15
+Koramangala 4th Block,others,Drinks & nightlife,15,15,15,15,15,15,15,15
+Koramangala 4th Block,others,Pubs and bars,9,9,9,9,9,9,9,9
+Koramangala 5th Block,Cafe,Cafes,23,23,23,23,23,23,23,23
+Koramangala 5th Block,Cafe,Delivery,16,16,16,16,16,16,16,16
+Koramangala 5th Block,Cafe,Dine-out,19,19,19,19,19,19,19,19
+Koramangala 5th Block,Casual Dining,Buffet,10,10,10,10,10,10,10,10
+Koramangala 5th Block,Casual Dining,Delivery,60,60,60,60,60,60,60,60
+Koramangala 5th Block,Casual Dining,Dine-out,68,68,68,68,68,68,68,68
+Koramangala 5th Block,Delivery,Delivery,11,11,11,11,11,11,11,11
+Koramangala 5th Block,Dessert Parlor,Delivery,54,54,54,54,54,54,54,54
+Koramangala 5th Block,Dessert Parlor,Desserts,58,58,58,58,58,58,58,58
+Koramangala 5th Block,Dessert Parlor,Pubs and bars,2,2,2,2,2,2,2,2
+Koramangala 5th Block,Quick Bites,Delivery,85,85,85,85,85,85,85,85
+Koramangala 5th Block,Quick Bites,Dine-out,60,60,60,60,60,60,60,60
+Koramangala 5th Block,"Takeaway, Delivery",Delivery,10,10,10,10,10,10,10,10
+Koramangala 5th Block,"Takeaway, Delivery",Desserts,4,4,4,4,4,4,4,4
+Koramangala 5th Block,others,Delivery,60,60,60,60,60,60,60,60
+Koramangala 5th Block,others,Desserts,25,25,25,25,25,25,25,25
+Koramangala 5th Block,others,Dine-out,29,29,29,29,29,29,29,29
+Koramangala 5th Block,others,Pubs and bars,3,3,3,3,3,3,3,3
+Koramangala 6th Block,Cafe,Cafes,11,11,11,11,11,11,11,11
+Koramangala 6th Block,Cafe,Delivery,10,10,10,10,10,10,10,10
+Koramangala 6th Block,Cafe,Dine-out,7,7,7,7,7,7,7,7
+Koramangala 6th Block,Casual Dining,Buffet,9,9,9,9,9,9,9,9
+Koramangala 6th Block,Casual Dining,Delivery,46,46,46,46,46,46,46,46
+Koramangala 6th Block,Casual Dining,Dine-out,39,39,39,39,39,39,39,39
+Koramangala 6th Block,Delivery,Delivery,11,11,11,11,11,11,11,11
+Koramangala 6th Block,Delivery,Desserts,4,4,4,4,4,4,4,4
+Koramangala 6th Block,Delivery,Pubs and bars,1,1,1,1,1,1,1,1
+Koramangala 6th Block,Dessert Parlor,Delivery,14,14,14,14,14,14,14,14
+Koramangala 6th Block,Dessert Parlor,Desserts,18,18,18,18,18,18,18,18
+Koramangala 6th Block,Quick Bites,Delivery,78,78,78,78,78,78,78,78
+Koramangala 6th Block,Quick Bites,Dine-out,76,76,76,76,76,76,76,76
+Koramangala 6th Block,"Takeaway, Delivery",Delivery,22,22,22,22,22,22,22,22
+Koramangala 6th Block,"Takeaway, Delivery",Desserts,4,4,4,4,4,4,4,4
+Koramangala 6th Block,others,Delivery,18,18,18,18,18,18,18,18
+Koramangala 6th Block,others,Desserts,9,9,9,9,9,9,9,9
+Koramangala 6th Block,others,Dine-out,24,24,24,24,24,24,24,24
+Koramangala 6th Block,others,Drinks & nightlife,8,8,8,8,8,8,8,8
+Koramangala 6th Block,others,Pubs and bars,3,3,3,3,3,3,3,3
+Koramangala 7th Block,Cafe,Cafes,17,17,17,17,17,17,17,17
+Koramangala 7th Block,Cafe,Delivery,6,6,6,6,6,6,6,6
+Koramangala 7th Block,Cafe,Dine-out,11,11,11,11,11,11,11,11
+Koramangala 7th Block,Casual Dining,Delivery,19,19,19,19,19,19,19,19
+Koramangala 7th Block,Casual Dining,Dine-out,32,32,32,32,32,32,32,32
+Koramangala 7th Block,Delivery,Delivery,55,55,55,55,55,55,55,55
+Koramangala 7th Block,Dessert Parlor,Delivery,22,22,22,22,22,22,22,22
+Koramangala 7th Block,Dessert Parlor,Desserts,33,33,33,33,33,33,33,33
+Koramangala 7th Block,Dessert Parlor,Pubs and bars,2,2,2,2,2,2,2,2
+Koramangala 7th Block,Quick Bites,Delivery,40,40,40,40,40,40,40,40
+Koramangala 7th Block,Quick Bites,Dine-out,58,58,58,58,58,58,58,58
+Koramangala 7th Block,"Takeaway, Delivery",Delivery,5,5,5,5,5,5,5,5
+Koramangala 7th Block,others,Buffet,5,5,5,5,5,5,5,5
+Koramangala 7th Block,others,Delivery,27,27,27,27,27,27,27,27
+Koramangala 7th Block,others,Desserts,29,29,29,29,29,29,29,29
+Koramangala 7th Block,others,Dine-out,15,15,15,15,15,15,15,15
+Koramangala 7th Block,others,Pubs and bars,3,3,3,3,3,3,3,3
+Lavelle Road,Cafe,Cafes,2,2,2,2,2,2,2,2
+Lavelle Road,Cafe,Delivery,1,1,1,1,1,1,1,1
+Lavelle Road,Cafe,Dine-out,2,2,2,2,2,2,2,2
+Lavelle Road,Dessert Parlor,Delivery,3,3,3,3,3,3,3,3
+Lavelle Road,Dessert Parlor,Desserts,5,5,5,5,5,5,5,5
+Lavelle Road,Quick Bites,Delivery,6,6,6,6,6,6,6,6
+Lavelle Road,Quick Bites,Desserts,5,5,5,5,5,5,5,5
+Lavelle Road,others,Buffet,5,5,5,5,5,5,5,5
+Lavelle Road,others,Delivery,21,21,21,21,21,21,21,21
+Lavelle Road,others,Desserts,14,14,14,14,14,14,14,14
+Lavelle Road,others,Dine-out,15,15,15,15,15,15,15,15
+Lavelle Road,others,Drinks & nightlife,6,6,6,6,6,6,6,6
+Lavelle Road,others,Pubs and bars,6,6,6,6,6,6,6,6
+MG Road,Cafe,Cafes,22,22,22,22,22,22,22,22
+MG Road,Cafe,Delivery,12,12,12,12,12,12,12,12
+MG Road,Cafe,Dine-out,18,18,18,18,18,18,18,18
+MG Road,Casual Dining,Buffet,10,10,10,10,10,10,10,10
+MG Road,Casual Dining,Delivery,10,10,10,10,10,10,10,10
+MG Road,Casual Dining,Dine-out,11,11,11,11,11,11,11,11
+MG Road,Dessert Parlor,Delivery,9,9,9,9,9,9,9,9
+MG Road,Dessert Parlor,Desserts,22,22,22,22,22,22,22,22
+MG Road,Dessert Parlor,Dine-out,6,6,6,6,6,6,6,6
+MG Road,Quick Bites,Delivery,33,33,33,33,33,33,33,33
+MG Road,Quick Bites,Dine-out,43,43,43,43,43,43,43,43
+MG Road,others,Cafes,10,10,10,10,10,10,10,10
+MG Road,others,Delivery,32,32,32,32,32,32,32,32
+MG Road,others,Desserts,9,9,9,9,9,9,9,9
+MG Road,others,Dine-out,39,39,39,39,39,39,39,39
+MG Road,others,Drinks & nightlife,11,11,11,11,11,11,11,11
+MG Road,others,Pubs and bars,4,4,4,4,4,4,4,4
+Malleshwaram,Cafe,Cafes,15,15,15,15,15,15,15,15
+Malleshwaram,Cafe,Delivery,3,3,3,3,3,3,3,3
+Malleshwaram,Cafe,Desserts,2,2,2,2,2,2,2,2
+Malleshwaram,Cafe,Dine-out,9,9,9,9,9,9,9,9
+Malleshwaram,Casual Dining,Buffet,7,7,7,7,7,7,7,7
+Malleshwaram,Casual Dining,Delivery,15,15,15,15,15,15,15,15
+Malleshwaram,Casual Dining,Dine-out,22,22,22,22,22,22,22,22
+Malleshwaram,Dessert Parlor,Delivery,15,15,15,15,15,15,15,15
+Malleshwaram,Dessert Parlor,Desserts,22,22,22,22,22,22,22,22
+Malleshwaram,Quick Bites,Delivery,58,58,58,58,58,58,58,58
+Malleshwaram,Quick Bites,Dine-out,73,73,73,73,73,73,73,73
+Malleshwaram,"Takeaway, Delivery",Delivery,2,2,2,2,2,2,2,2
+Malleshwaram,"Takeaway, Delivery",Desserts,2,2,2,2,2,2,2,2
+Malleshwaram,others,Buffet,2,2,2,2,2,2,2,2
+Malleshwaram,others,Delivery,37,37,37,37,37,37,37,37
+Malleshwaram,others,Desserts,30,30,30,30,30,30,30,30
+Malleshwaram,others,Dine-out,23,23,23,23,23,23,23,23
+Malleshwaram,others,Drinks & nightlife,2,2,2,2,2,2,2,2
+Malleshwaram,others,Pubs and bars,2,2,2,2,2,2,2,2
+Marathahalli,Cafe,Cafes,5,5,5,5,5,5,5,5
+Marathahalli,Cafe,Delivery,4,4,4,4,4,4,4,4
+Marathahalli,Cafe,Desserts,1,1,1,1,1,1,1,1
+Marathahalli,Cafe,Dine-out,3,3,3,3,3,3,3,3
+Marathahalli,Casual Dining,Buffet,3,3,3,3,3,3,3,3
+Marathahalli,Casual Dining,Delivery,77,77,77,77,77,77,77,77
+Marathahalli,Casual Dining,Desserts,1,1,1,1,1,1,1,1
+Marathahalli,Casual Dining,Dine-out,64,64,64,64,64,64,64,64
+Marathahalli,Delivery,Delivery,34,34,34,34,34,34,34,34
+Marathahalli,Delivery,Desserts,1,1,1,1,1,1,1,1
+Marathahalli,Dessert Parlor,Delivery,24,24,24,24,24,24,24,24
+Marathahalli,Dessert Parlor,Desserts,21,21,21,21,21,21,21,21
+Marathahalli,Quick Bites,Delivery,173,173,173,173,173,173,173,173
+Marathahalli,Quick Bites,Desserts,1,1,1,1,1,1,1,1
+Marathahalli,Quick Bites,Dine-out,141,141,141,141,141,141,141,141
+Marathahalli,"Takeaway, Delivery",Delivery,28,28,28,28,28,28,28,28
+Marathahalli,"Takeaway, Delivery",Desserts,2,2,2,2,2,2,2,2
+Marathahalli,others,Buffet,6,6,6,6,6,6,6,6
+Marathahalli,others,Delivery,57,57,57,57,57,57,57,57
+Marathahalli,others,Desserts,27,27,27,27,27,27,27,27
+Marathahalli,others,Dine-out,25,25,25,25,25,25,25,25
+Marathahalli,others,Drinks & nightlife,6,6,6,6,6,6,6,6
+Marathahalli,others,Pubs and bars,2,2,2,2,2,2,2,2
+New BEL Road,Cafe,Cafes,3,3,3,3,3,3,3,3
+New BEL Road,Cafe,Delivery,7,7,7,7,7,7,7,7
+New BEL Road,Cafe,Dine-out,3,3,3,3,3,3,3,3
+New BEL Road,Casual Dining,Buffet,2,2,2,2,2,2,2,2
+New BEL Road,Casual Dining,Delivery,22,22,22,22,22,22,22,22
+New BEL Road,Casual Dining,Dine-out,19,19,19,19,19,19,19,19
+New BEL Road,Delivery,Delivery,7,7,7,7,7,7,7,7
+New BEL Road,Dessert Parlor,Delivery,8,8,8,8,8,8,8,8
+New BEL Road,Dessert Parlor,Desserts,8,8,8,8,8,8,8,8
+New BEL Road,Quick Bites,Delivery,56,56,56,56,56,56,56,56
+New BEL Road,Quick Bites,Desserts,2,2,2,2,2,2,2,2
+New BEL Road,Quick Bites,Dine-out,46,46,46,46,46,46,46,46
+New BEL Road,"Takeaway, Delivery",Delivery,4,4,4,4,4,4,4,4
+New BEL Road,others,Cafes,1,1,1,1,1,1,1,1
+New BEL Road,others,Delivery,14,14,14,14,14,14,14,14
+New BEL Road,others,Desserts,6,6,6,6,6,6,6,6
+New BEL Road,others,Dine-out,8,8,8,8,8,8,8,8
+New BEL Road,others,Drinks & nightlife,2,2,2,2,2,2,2,2
+New BEL Road,others,Pubs and bars,2,2,2,2,2,2,2,2
+Rajajinagar,Cafe,Cafes,3,3,3,3,3,3,3,3
+Rajajinagar,Cafe,Desserts,2,2,2,2,2,2,2,2
+Rajajinagar,Casual Dining,Buffet,3,3,3,3,3,3,3,3
+Rajajinagar,Casual Dining,Delivery,16,16,16,16,16,16,16,16
+Rajajinagar,Casual Dining,Dine-out,25,25,25,25,25,25,25,25
+Rajajinagar,Delivery,Delivery,3,3,3,3,3,3,3,3
+Rajajinagar,Delivery,Desserts,2,2,2,2,2,2,2,2
+Rajajinagar,Dessert Parlor,Delivery,9,9,9,9,9,9,9,9
+Rajajinagar,Dessert Parlor,Desserts,12,12,12,12,12,12,12,12
+Rajajinagar,Quick Bites,Delivery,70,70,70,70,70,70,70,70
+Rajajinagar,Quick Bites,Desserts,3,3,3,3,3,3,3,3
+Rajajinagar,Quick Bites,Dine-out,87,87,87,87,87,87,87,87
+Rajajinagar,"Takeaway, Delivery",Delivery,7,7,7,7,7,7,7,7
+Rajajinagar,"Takeaway, Delivery",Desserts,2,2,2,2,2,2,2,2
+Rajajinagar,others,Delivery,7,7,7,7,7,7,7,7
+Rajajinagar,others,Desserts,10,10,10,10,10,10,10,10
+Rajajinagar,others,Dine-out,4,4,4,4,4,4,4,4
+Rajajinagar,others,Drinks & nightlife,1,1,1,1,1,1,1,1
+Rajajinagar,others,Pubs and bars,1,1,1,1,1,1,1,1
+Residency Road,Cafe,Cafes,6,6,6,6,6,6,6,6
+Residency Road,Cafe,Delivery,5,5,5,5,5,5,5,5
+Residency Road,Cafe,Dine-out,6,6,6,6,6,6,6,6
+Residency Road,Casual Dining,Buffet,5,5,5,5,5,5,5,5
+Residency Road,Casual Dining,Delivery,15,15,15,15,15,15,15,15
+Residency Road,Casual Dining,Dine-out,28,28,28,28,28,28,28,28
+Residency Road,Delivery,Delivery,3,3,3,3,3,3,3,3
+Residency Road,Delivery,Desserts,5,5,5,5,5,5,5,5
+Residency Road,Dessert Parlor,Delivery,13,13,13,13,13,13,13,13
+Residency Road,Dessert Parlor,Desserts,27,27,27,27,27,27,27,27
+Residency Road,Dessert Parlor,Dine-out,2,2,2,2,2,2,2,2
+Residency Road,Quick Bites,Delivery,26,26,26,26,26,26,26,26
+Residency Road,Quick Bites,Dine-out,31,31,31,31,31,31,31,31
+Residency Road,"Takeaway, Delivery",Delivery,2,2,2,2,2,2,2,2
+Residency Road,others,Dine-out,48,48,48,48,48,48,48,48
+Residency Road,others,Drinks & nightlife,30,30,30,30,30,30,30,30
+Residency Road,others,Pubs and bars,18,18,18,18,18,18,18,18
+Richmond Road,Cafe,Cafes,10,10,10,10,10,10,10,10
+Richmond Road,Cafe,Delivery,1,1,1,1,1,1,1,1
+Richmond Road,Cafe,Dine-out,10,10,10,10,10,10,10,10
+Richmond Road,Casual Dining,Buffet,9,9,9,9,9,9,9,9
+Richmond Road,Casual Dining,Delivery,30,30,30,30,30,30,30,30
+Richmond Road,Casual Dining,Dine-out,45,45,45,45,45,45,45,45
+Richmond Road,Delivery,Delivery,5,5,5,5,5,5,5,5
+Richmond Road,Dessert Parlor,Delivery,5,5,5,5,5,5,5,5
+Richmond Road,Dessert Parlor,Desserts,5,5,5,5,5,5,5,5
+Richmond Road,Quick Bites,Delivery,39,39,39,39,39,39,39,39
+Richmond Road,Quick Bites,Dine-out,53,53,53,53,53,53,53,53
+Richmond Road,"Takeaway, Delivery",Delivery,5,5,5,5,5,5,5,5
+Richmond Road,others,Buffet,5,5,5,5,5,5,5,5
+Richmond Road,others,Delivery,10,10,10,10,10,10,10,10
+Richmond Road,others,Desserts,20,20,20,20,20,20,20,20
+Richmond Road,others,Dine-out,30,30,30,30,30,30,30,30
+Richmond Road,others,Drinks & nightlife,6,6,6,6,6,6,6,6
+Richmond Road,others,Pubs and bars,6,6,6,6,6,6,6,6
+Sarjapur Road,Cafe,Cafes,2,2,2,2,2,2,2,2
+Sarjapur Road,Cafe,Delivery,5,5,5,5,5,5,5,5
+Sarjapur Road,Cafe,Desserts,5,5,5,5,5,5,5,5
+Sarjapur Road,Cafe,Dine-out,1,1,1,1,1,1,1,1
+Sarjapur Road,Casual Dining,Buffet,5,5,5,5,5,5,5,5
+Sarjapur Road,Casual Dining,Delivery,32,32,32,32,32,32,32,32
+Sarjapur Road,Casual Dining,Dine-out,32,32,32,32,32,32,32,32
+Sarjapur Road,Delivery,Delivery,39,39,39,39,39,39,39,39
+Sarjapur Road,Delivery,Desserts,1,1,1,1,1,1,1,1
+Sarjapur Road,Dessert Parlor,Delivery,16,16,16,16,16,16,16,16
+Sarjapur Road,Dessert Parlor,Desserts,22,22,22,22,22,22,22,22
+Sarjapur Road,Dessert Parlor,Dine-out,1,1,1,1,1,1,1,1
+Sarjapur Road,Quick Bites,Delivery,82,82,82,82,82,82,82,82
+Sarjapur Road,Quick Bites,Dine-out,64,64,64,64,64,64,64,64
+Sarjapur Road,"Takeaway, Delivery",Delivery,12,12,12,12,12,12,12,12
+Sarjapur Road,"Takeaway, Delivery",Desserts,3,3,3,3,3,3,3,3
+Sarjapur Road,others,Delivery,34,34,34,34,34,34,34,34
+Sarjapur Road,others,Desserts,21,21,21,21,21,21,21,21
+Sarjapur Road,others,Dine-out,8,8,8,8,8,8,8,8
+Sarjapur Road,others,Drinks & nightlife,1,1,1,1,1,1,1,1
+Sarjapur Road,others,Pubs and bars,1,1,1,1,1,1,1,1
+Shanti Nagar,Cafe,Cafes,9,9,9,9,9,9,9,9
+Shanti Nagar,Cafe,Dine-out,5,5,5,5,5,5,5,5
+Shanti Nagar,Casual Dining,Delivery,30,30,30,30,30,30,30,30
+Shanti Nagar,Casual Dining,Desserts,3,3,3,3,3,3,3,3
+Shanti Nagar,Casual Dining,Dine-out,18,18,18,18,18,18,18,18
+Shanti Nagar,Delivery,Delivery,4,4,4,4,4,4,4,4
+Shanti Nagar,Delivery,Desserts,4,4,4,4,4,4,4,4
+Shanti Nagar,Quick Bites,Delivery,42,42,42,42,42,42,42,42
+Shanti Nagar,Quick Bites,Dine-out,54,54,54,54,54,54,54,54
+Shanti Nagar,others,Delivery,15,15,15,15,15,15,15,15
+Shanti Nagar,others,Desserts,11,11,11,11,11,11,11,11
+Shanti Nagar,others,Dine-out,5,5,5,5,5,5,5,5
+Ulsoor,Casual Dining,Delivery,15,15,15,15,15,15,15,15
+Ulsoor,Casual Dining,Dine-out,11,11,11,11,11,11,11,11
+Ulsoor,Delivery,Delivery,7,7,7,7,7,7,7,7
+Ulsoor,Dessert Parlor,Delivery,4,4,4,4,4,4,4,4
+Ulsoor,Dessert Parlor,Desserts,8,8,8,8,8,8,8,8
+Ulsoor,Quick Bites,Delivery,138,138,138,138,138,138,138,138
+Ulsoor,Quick Bites,Dine-out,84,84,84,84,84,84,84,84
+Ulsoor,others,Delivery,29,29,29,29,29,29,29,29
+Ulsoor,others,Desserts,13,13,13,13,13,13,13,13
+Ulsoor,others,Dine-out,15,15,15,15,15,15,15,15
+Ulsoor,others,Drinks & nightlife,8,8,8,8,8,8,8,8
+Ulsoor,others,Pubs and bars,4,4,4,4,4,4,4,4
+Whitefield,Cafe,Cafes,12,12,12,12,12,12,12,12
+Whitefield,Cafe,Delivery,5,5,5,5,5,5,5,5
+Whitefield,Cafe,Desserts,3,3,3,3,3,3,3,3
+Whitefield,Cafe,Dine-out,10,10,10,10,10,10,10,10
+Whitefield,Casual Dining,Buffet,6,6,6,6,6,6,6,6
+Whitefield,Casual Dining,Delivery,79,79,79,79,79,79,79,79
+Whitefield,Casual Dining,Dine-out,87,87,87,87,87,87,87,87
+Whitefield,Delivery,Delivery,49,49,49,49,49,49,49,49
+Whitefield,Delivery,Desserts,2,2,2,2,2,2,2,2
+Whitefield,Delivery,Dine-out,1,1,1,1,1,1,1,1
+Whitefield,Dessert Parlor,Delivery,23,23,23,23,23,23,23,23
+Whitefield,Dessert Parlor,Desserts,23,23,23,23,23,23,23,23
+Whitefield,Quick Bites,Buffet,1,1,1,1,1,1,1,1
+Whitefield,Quick Bites,Delivery,139,139,139,139,139,139,139,139
+Whitefield,Quick Bites,Desserts,4,4,4,4,4,4,4,4
+Whitefield,Quick Bites,Dine-out,136,136,136,136,136,136,136,136
+Whitefield,"Takeaway, Delivery",Delivery,25,25,25,25,25,25,25,25
+Whitefield,"Takeaway, Delivery",Desserts,2,2,2,2,2,2,2,2
+Whitefield,others,Buffet,1,1,1,1,1,1,1,1
+Whitefield,others,Delivery,72,72,72,72,72,72,72,72
+Whitefield,others,Desserts,29,29,29,29,29,29,29,29
+Whitefield,others,Dine-out,57,57,57,57,57,57,57,57
+Whitefield,others,Drinks & nightlife,16,16,16,16,16,16,16,16
+Whitefield,others,Pubs and bars,5,5,5,5,5,5,5,5

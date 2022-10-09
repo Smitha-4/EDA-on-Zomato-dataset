@@ -1,0 +1,1362 @@
+location,cuisines,name,online_order,book_table,rate,votes,rest_type,dish_liked,approx_cost(for two people),listed_in(type)
+BTM,Andhra,10,10,10,10,10,10,10,10,10
+BTM,"Andhra, Biryani",16,16,16,16,16,16,16,16,16
+BTM,Arabian,31,31,31,31,31,31,31,31,31
+BTM,Bakery,30,30,30,30,30,30,30,30,30
+BTM,"Bakery, Desserts",24,24,24,24,24,24,24,24,24
+BTM,Beverages,60,60,60,60,60,60,60,60,60
+BTM,"Beverages, Desserts",2,2,2,2,2,2,2,2,2
+BTM,"Beverages, Fast Food",32,32,32,32,32,32,32,32,32
+BTM,Biryani,77,77,77,77,77,77,77,77,77
+BTM,"Biryani, Fast Food",33,33,33,33,33,33,33,33,33
+BTM,"Biryani, Kebab",8,8,8,8,8,8,8,8,8
+BTM,"Biryani, North Indian",73,73,73,73,73,73,73,73,73
+BTM,"Biryani, North Indian, Chinese",22,22,22,22,22,22,22,22,22
+BTM,"Burger, Fast Food",4,4,4,4,4,4,4,4,4
+BTM,Cafe,52,52,52,52,52,52,52,52,52
+BTM,"Cafe, Bakery",13,13,13,13,13,13,13,13,13
+BTM,"Cafe, Fast Food",23,23,23,23,23,23,23,23,23
+BTM,Chinese,27,27,27,27,27,27,27,27,27
+BTM,"Chinese, Momos",13,13,13,13,13,13,13,13,13
+BTM,"Chinese, North Indian",80,80,80,80,80,80,80,80,80
+BTM,"Chinese, Thai",2,2,2,2,2,2,2,2,2
+BTM,"Chinese, Thai, Momos",3,3,3,3,3,3,3,3,3
+BTM,Continental,9,9,9,9,9,9,9,9,9
+BTM,Desserts,14,14,14,14,14,14,14,14,14
+BTM,"Desserts, Beverages",17,17,17,17,17,17,17,17,17
+BTM,"Desserts, Ice Cream",15,15,15,15,15,15,15,15,15
+BTM,Fast Food,104,104,104,104,104,104,104,104,104
+BTM,"Fast Food, Beverages",31,31,31,31,31,31,31,31,31
+BTM,"Fast Food, Burger",1,1,1,1,1,1,1,1,1
+BTM,"Fast Food, Rolls",7,7,7,7,7,7,7,7,7
+BTM,Finger Food,25,25,25,25,25,25,25,25,25
+BTM,Ice Cream,27,27,27,27,27,27,27,27,27
+BTM,"Ice Cream, Desserts",14,14,14,14,14,14,14,14,14
+BTM,"Italian, Pizza",20,20,20,20,20,20,20,20,20
+BTM,Kerala,35,35,35,35,35,35,35,35,35
+BTM,"Kerala, South Indian",19,19,19,19,19,19,19,19,19
+BTM,Mithai,15,15,15,15,15,15,15,15,15
+BTM,"Mithai, Street Food",12,12,12,12,12,12,12,12,12
+BTM,North Indian,253,253,253,253,253,253,253,253,253
+BTM,"North Indian, Biryani",41,41,41,41,41,41,41,41,41
+BTM,"North Indian, Chinese",342,342,342,342,342,342,342,342,342
+BTM,"North Indian, Chinese, Biryani",10,10,10,10,10,10,10,10,10
+BTM,"North Indian, Chinese, Continental",7,7,7,7,7,7,7,7,7
+BTM,"North Indian, Chinese, Fast Food",38,38,38,38,38,38,38,38,38
+BTM,"North Indian, Chinese, Seafood",2,2,2,2,2,2,2,2,2
+BTM,"North Indian, Chinese, South Indian",8,8,8,8,8,8,8,8,8
+BTM,"North Indian, Fast Food",20,20,20,20,20,20,20,20,20
+BTM,"North Indian, South Indian",22,22,22,22,22,22,22,22,22
+BTM,"North Indian, South Indian, Chinese",18,18,18,18,18,18,18,18,18
+BTM,"North Indian, Street Food",23,23,23,23,23,23,23,23,23
+BTM,Pizza,4,4,4,4,4,4,4,4,4
+BTM,"Pizza, Fast Food",3,3,3,3,3,3,3,3,3
+BTM,South Indian,59,59,59,59,59,59,59,59,59
+BTM,"South Indian, Biryani",12,12,12,12,12,12,12,12,12
+BTM,"South Indian, Chinese",16,16,16,16,16,16,16,16,16
+BTM,"South Indian, Chinese, North Indian",10,10,10,10,10,10,10,10,10
+BTM,"South Indian, North Indian",11,11,11,11,11,11,11,11,11
+BTM,"South Indian, North Indian, Chinese",67,67,67,67,67,67,67,67,67
+BTM,"South Indian, North Indian, Chinese, Street Food",9,9,9,9,9,9,9,9,9
+BTM,Street Food,22,22,22,22,22,22,22,22,22
+Banashankari,Andhra,2,2,2,2,2,2,2,2,2
+Banashankari,Arabian,2,2,2,2,2,2,2,2,2
+Banashankari,Bakery,5,5,5,5,5,5,5,5,5
+Banashankari,"Bakery, Desserts",21,21,21,21,21,21,21,21,21
+Banashankari,Biryani,12,12,12,12,12,12,12,12,12
+Banashankari,"Biryani, Fast Food",9,9,9,9,9,9,9,9,9
+Banashankari,"Biryani, South Indian",2,2,2,2,2,2,2,2,2
+Banashankari,"Burger, Fast Food",5,5,5,5,5,5,5,5,5
+Banashankari,Cafe,15,15,15,15,15,15,15,15,15
+Banashankari,"Cafe, Bakery",4,4,4,4,4,4,4,4,4
+Banashankari,"Cafe, Continental",2,2,2,2,2,2,2,2,2
+Banashankari,"Cafe, Fast Food",4,4,4,4,4,4,4,4,4
+Banashankari,"Chinese, North Indian",9,9,9,9,9,9,9,9,9
+Banashankari,"Chinese, Thai",3,3,3,3,3,3,3,3,3
+Banashankari,"Chinese, Thai, Momos",5,5,5,5,5,5,5,5,5
+Banashankari,Continental,3,3,3,3,3,3,3,3,3
+Banashankari,Desserts,5,5,5,5,5,5,5,5,5
+Banashankari,"Desserts, Beverages",2,2,2,2,2,2,2,2,2
+Banashankari,"Desserts, Ice Cream",8,8,8,8,8,8,8,8,8
+Banashankari,Fast Food,14,14,14,14,14,14,14,14,14
+Banashankari,"Fast Food, Beverages",3,3,3,3,3,3,3,3,3
+Banashankari,"Fast Food, Burger",6,6,6,6,6,6,6,6,6
+Banashankari,"Fast Food, Rolls",2,2,2,2,2,2,2,2,2
+Banashankari,Finger Food,4,4,4,4,4,4,4,4,4
+Banashankari,Ice Cream,7,7,7,7,7,7,7,7,7
+Banashankari,"Ice Cream, Desserts",12,12,12,12,12,12,12,12,12
+Banashankari,"Italian, Pizza",1,1,1,1,1,1,1,1,1
+Banashankari,Mithai,3,3,3,3,3,3,3,3,3
+Banashankari,"Mithai, Street Food",17,17,17,17,17,17,17,17,17
+Banashankari,North Indian,27,27,27,27,27,27,27,27,27
+Banashankari,"North Indian, Chinese",60,60,60,60,60,60,60,60,60
+Banashankari,"North Indian, Chinese, Continental",5,5,5,5,5,5,5,5,5
+Banashankari,"North Indian, Chinese, Fast Food",2,2,2,2,2,2,2,2,2
+Banashankari,"North Indian, Mughlai, Chinese",9,9,9,9,9,9,9,9,9
+Banashankari,"North Indian, South Indian",3,3,3,3,3,3,3,3,3
+Banashankari,"North Indian, Street Food",3,3,3,3,3,3,3,3,3
+Banashankari,Pizza,4,4,4,4,4,4,4,4,4
+Banashankari,"Pizza, Fast Food",5,5,5,5,5,5,5,5,5
+Banashankari,South Indian,55,55,55,55,55,55,55,55,55
+Banashankari,"South Indian, Biryani",4,4,4,4,4,4,4,4,4
+Banashankari,"South Indian, Chinese",2,2,2,2,2,2,2,2,2
+Banashankari,"South Indian, Chinese, North Indian",6,6,6,6,6,6,6,6,6
+Banashankari,"South Indian, Fast Food",5,5,5,5,5,5,5,5,5
+Banashankari,"South Indian, North Indian",14,14,14,14,14,14,14,14,14
+Banashankari,"South Indian, North Indian, Chinese",18,18,18,18,18,18,18,18,18
+Banashankari,"South Indian, North Indian, Chinese, Street Food",16,16,16,16,16,16,16,16,16
+Banashankari,Street Food,5,5,5,5,5,5,5,5,5
+Banaswadi,Arabian,2,2,2,2,2,2,2,2,2
+Banaswadi,Bakery,4,4,4,4,4,4,4,4,4
+Banaswadi,"Bakery, Desserts",8,8,8,8,8,8,8,8,8
+Banaswadi,"Bakery, Fast Food",1,1,1,1,1,1,1,1,1
+Banaswadi,Beverages,2,2,2,2,2,2,2,2,2
+Banaswadi,Biryani,15,15,15,15,15,15,15,15,15
+Banaswadi,"Biryani, Kebab",4,4,4,4,4,4,4,4,4
+Banaswadi,"Biryani, North Indian",1,1,1,1,1,1,1,1,1
+Banaswadi,"Biryani, North Indian, Chinese",1,1,1,1,1,1,1,1,1
+Banaswadi,Cafe,10,10,10,10,10,10,10,10,10
+Banaswadi,"Cafe, Bakery",6,6,6,6,6,6,6,6,6
+Banaswadi,"Cafe, Continental",6,6,6,6,6,6,6,6,6
+Banaswadi,"Cafe, Fast Food",10,10,10,10,10,10,10,10,10
+Banaswadi,Chinese,11,11,11,11,11,11,11,11,11
+Banaswadi,"Chinese, Momos",5,5,5,5,5,5,5,5,5
+Banaswadi,"Chinese, North Indian",8,8,8,8,8,8,8,8,8
+Banaswadi,"Desserts, Bakery",4,4,4,4,4,4,4,4,4
+Banaswadi,"Desserts, Beverages",6,6,6,6,6,6,6,6,6
+Banaswadi,Fast Food,4,4,4,4,4,4,4,4,4
+Banaswadi,"Fast Food, Burger",5,5,5,5,5,5,5,5,5
+Banaswadi,"Fast Food, Rolls",1,1,1,1,1,1,1,1,1
+Banaswadi,Finger Food,4,4,4,4,4,4,4,4,4
+Banaswadi,"Ice Cream, Desserts",11,11,11,11,11,11,11,11,11
+Banaswadi,"Italian, Pizza",3,3,3,3,3,3,3,3,3
+Banaswadi,Kerala,8,8,8,8,8,8,8,8,8
+Banaswadi,"Mithai, Street Food",7,7,7,7,7,7,7,7,7
+Banaswadi,North Indian,9,9,9,9,9,9,9,9,9
+Banaswadi,"North Indian, Chinese",18,18,18,18,18,18,18,18,18
+Banaswadi,"North Indian, Chinese, Biryani",6,6,6,6,6,6,6,6,6
+Banaswadi,"North Indian, Mughlai",4,4,4,4,4,4,4,4,4
+Banaswadi,"North Indian, South Indian, Chinese",4,4,4,4,4,4,4,4,4
+Banaswadi,Pizza,3,3,3,3,3,3,3,3,3
+Banaswadi,"Pizza, Fast Food",1,1,1,1,1,1,1,1,1
+Banaswadi,South Indian,27,27,27,27,27,27,27,27,27
+Banaswadi,"South Indian, Biryani",7,7,7,7,7,7,7,7,7
+Banaswadi,"South Indian, Chinese",2,2,2,2,2,2,2,2,2
+Banaswadi,"South Indian, North Indian",8,8,8,8,8,8,8,8,8
+Banaswadi,"South Indian, North Indian, Chinese",8,8,8,8,8,8,8,8,8
+Banaswadi,"South Indian, North Indian, Chinese, Street Food",3,3,3,3,3,3,3,3,3
+Banaswadi,Street Food,5,5,5,5,5,5,5,5,5
+Bannerghatta Road,Andhra,7,7,7,7,7,7,7,7,7
+Bannerghatta Road,"Andhra, Biryani",11,11,11,11,11,11,11,11,11
+Bannerghatta Road,Arabian,2,2,2,2,2,2,2,2,2
+Bannerghatta Road,Bakery,14,14,14,14,14,14,14,14,14
+Bannerghatta Road,"Bakery, Desserts",15,15,15,15,15,15,15,15,15
+Bannerghatta Road,"Bakery, Fast Food",2,2,2,2,2,2,2,2,2
+Bannerghatta Road,Beverages,2,2,2,2,2,2,2,2,2
+Bannerghatta Road,"Beverages, Fast Food",4,4,4,4,4,4,4,4,4
+Bannerghatta Road,Biryani,9,9,9,9,9,9,9,9,9
+Bannerghatta Road,"Biryani, Fast Food",9,9,9,9,9,9,9,9,9
+Bannerghatta Road,"Biryani, North Indian",12,12,12,12,12,12,12,12,12
+Bannerghatta Road,"Biryani, North Indian, Chinese",10,10,10,10,10,10,10,10,10
+Bannerghatta Road,"Biryani, South Indian",5,5,5,5,5,5,5,5,5
+Bannerghatta Road,"Burger, Fast Food",4,4,4,4,4,4,4,4,4
+Bannerghatta Road,Cafe,20,20,20,20,20,20,20,20,20
+Bannerghatta Road,"Cafe, Bakery",10,10,10,10,10,10,10,10,10
+Bannerghatta Road,"Cafe, Continental",2,2,2,2,2,2,2,2,2
+Bannerghatta Road,"Cafe, Desserts",2,2,2,2,2,2,2,2,2
+Bannerghatta Road,"Cafe, Fast Food",6,6,6,6,6,6,6,6,6
+Bannerghatta Road,Chinese,14,14,14,14,14,14,14,14,14
+Bannerghatta Road,"Chinese, North Indian",7,7,7,7,7,7,7,7,7
+Bannerghatta Road,"Chinese, Thai",5,5,5,5,5,5,5,5,5
+Bannerghatta Road,"Chinese, Thai, Momos",5,5,5,5,5,5,5,5,5
+Bannerghatta Road,Continental,9,9,9,9,9,9,9,9,9
+Bannerghatta Road,Desserts,11,11,11,11,11,11,11,11,11
+Bannerghatta Road,"Desserts, Bakery",2,2,2,2,2,2,2,2,2
+Bannerghatta Road,"Desserts, Beverages",4,4,4,4,4,4,4,4,4
+Bannerghatta Road,"Desserts, Ice Cream",8,8,8,8,8,8,8,8,8
+Bannerghatta Road,Fast Food,21,21,21,21,21,21,21,21,21
+Bannerghatta Road,"Fast Food, Beverages",2,2,2,2,2,2,2,2,2
+Bannerghatta Road,"Fast Food, Burger",4,4,4,4,4,4,4,4,4
+Bannerghatta Road,"Fast Food, Rolls",4,4,4,4,4,4,4,4,4
+Bannerghatta Road,Ice Cream,7,7,7,7,7,7,7,7,7
+Bannerghatta Road,"Ice Cream, Desserts",15,15,15,15,15,15,15,15,15
+Bannerghatta Road,Kerala,9,9,9,9,9,9,9,9,9
+Bannerghatta Road,"Kerala, South Indian",8,8,8,8,8,8,8,8,8
+Bannerghatta Road,"Mithai, Street Food",9,9,9,9,9,9,9,9,9
+Bannerghatta Road,North Indian,57,57,57,57,57,57,57,57,57
+Bannerghatta Road,"North Indian, Biryani",14,14,14,14,14,14,14,14,14
+Bannerghatta Road,"North Indian, Chinese",114,114,114,114,114,114,114,114,114
+Bannerghatta Road,"North Indian, Chinese, Biryani",9,9,9,9,9,9,9,9,9
+Bannerghatta Road,"North Indian, Chinese, Fast Food",5,5,5,5,5,5,5,5,5
+Bannerghatta Road,"North Indian, Chinese, Seafood",2,2,2,2,2,2,2,2,2
+Bannerghatta Road,"North Indian, Chinese, South Indian",3,3,3,3,3,3,3,3,3
+Bannerghatta Road,"North Indian, Fast Food",2,2,2,2,2,2,2,2,2
+Bannerghatta Road,"North Indian, Mughlai",6,6,6,6,6,6,6,6,6
+Bannerghatta Road,"North Indian, South Indian",2,2,2,2,2,2,2,2,2
+Bannerghatta Road,"North Indian, South Indian, Chinese",14,14,14,14,14,14,14,14,14
+Bannerghatta Road,"North Indian, Street Food",11,11,11,11,11,11,11,11,11
+Bannerghatta Road,Pizza,3,3,3,3,3,3,3,3,3
+Bannerghatta Road,"Pizza, Fast Food",3,3,3,3,3,3,3,3,3
+Bannerghatta Road,South Indian,20,20,20,20,20,20,20,20,20
+Bannerghatta Road,"South Indian, Biryani",3,3,3,3,3,3,3,3,3
+Bannerghatta Road,"South Indian, Chinese",2,2,2,2,2,2,2,2,2
+Bannerghatta Road,"South Indian, North Indian",21,21,21,21,21,21,21,21,21
+Bannerghatta Road,"South Indian, North Indian, Chinese",27,27,27,27,27,27,27,27,27
+Bannerghatta Road,"South Indian, North Indian, Chinese, Street Food",3,3,3,3,3,3,3,3,3
+Bannerghatta Road,Street Food,17,17,17,17,17,17,17,17,17
+Basavanagudi,Bakery,13,13,13,13,13,13,13,13,13
+Basavanagudi,"Bakery, Desserts",9,9,9,9,9,9,9,9,9
+Basavanagudi,"Beverages, Desserts",8,8,8,8,8,8,8,8,8
+Basavanagudi,"Beverages, Fast Food",6,6,6,6,6,6,6,6,6
+Basavanagudi,Biryani,6,6,6,6,6,6,6,6,6
+Basavanagudi,"Biryani, Fast Food",2,2,2,2,2,2,2,2,2
+Basavanagudi,"Biryani, North Indian",2,2,2,2,2,2,2,2,2
+Basavanagudi,"Burger, Fast Food",3,3,3,3,3,3,3,3,3
+Basavanagudi,Cafe,8,8,8,8,8,8,8,8,8
+Basavanagudi,"Cafe, Fast Food",7,7,7,7,7,7,7,7,7
+Basavanagudi,Chinese,12,12,12,12,12,12,12,12,12
+Basavanagudi,Desserts,8,8,8,8,8,8,8,8,8
+Basavanagudi,"Desserts, Beverages",2,2,2,2,2,2,2,2,2
+Basavanagudi,"Desserts, Ice Cream",5,5,5,5,5,5,5,5,5
+Basavanagudi,Fast Food,20,20,20,20,20,20,20,20,20
+Basavanagudi,"Fast Food, Beverages",1,1,1,1,1,1,1,1,1
+Basavanagudi,"Fast Food, Rolls",7,7,7,7,7,7,7,7,7
+Basavanagudi,Finger Food,6,6,6,6,6,6,6,6,6
+Basavanagudi,Ice Cream,2,2,2,2,2,2,2,2,2
+Basavanagudi,"Ice Cream, Desserts",10,10,10,10,10,10,10,10,10
+Basavanagudi,Mithai,2,2,2,2,2,2,2,2,2
+Basavanagudi,"Mithai, Street Food",3,3,3,3,3,3,3,3,3
+Basavanagudi,North Indian,16,16,16,16,16,16,16,16,16
+Basavanagudi,"North Indian, Chinese",11,11,11,11,11,11,11,11,11
+Basavanagudi,"North Indian, Chinese, South Indian",5,5,5,5,5,5,5,5,5
+Basavanagudi,"North Indian, Fast Food",5,5,5,5,5,5,5,5,5
+Basavanagudi,"North Indian, Mughlai",5,5,5,5,5,5,5,5,5
+Basavanagudi,"North Indian, Street Food",2,2,2,2,2,2,2,2,2
+Basavanagudi,Pizza,2,2,2,2,2,2,2,2,2
+Basavanagudi,"Pizza, Fast Food",2,2,2,2,2,2,2,2,2
+Basavanagudi,South Indian,84,84,84,84,84,84,84,84,84
+Basavanagudi,"South Indian, Biryani",3,3,3,3,3,3,3,3,3
+Basavanagudi,"South Indian, Chinese",3,3,3,3,3,3,3,3,3
+Basavanagudi,"South Indian, Fast Food",5,5,5,5,5,5,5,5,5
+Basavanagudi,"South Indian, North Indian, Chinese",29,29,29,29,29,29,29,29,29
+Basavanagudi,"South Indian, North Indian, Chinese, Street Food",3,3,3,3,3,3,3,3,3
+Basavanagudi,Street Food,15,15,15,15,15,15,15,15,15
+Bellandur,Andhra,6,6,6,6,6,6,6,6,6
+Bellandur,"Andhra, Biryani",2,2,2,2,2,2,2,2,2
+Bellandur,Arabian,4,4,4,4,4,4,4,4,4
+Bellandur,Bakery,6,6,6,6,6,6,6,6,6
+Bellandur,"Bakery, Desserts",20,20,20,20,20,20,20,20,20
+Bellandur,"Bakery, Fast Food",1,1,1,1,1,1,1,1,1
+Bellandur,"Beverages, Desserts",4,4,4,4,4,4,4,4,4
+Bellandur,"Beverages, Fast Food",13,13,13,13,13,13,13,13,13
+Bellandur,Biryani,20,20,20,20,20,20,20,20,20
+Bellandur,"Biryani, Fast Food",2,2,2,2,2,2,2,2,2
+Bellandur,"Biryani, Kebab",3,3,3,3,3,3,3,3,3
+Bellandur,"Biryani, North Indian",20,20,20,20,20,20,20,20,20
+Bellandur,"Biryani, North Indian, Chinese",4,4,4,4,4,4,4,4,4
+Bellandur,"Burger, Fast Food",5,5,5,5,5,5,5,5,5
+Bellandur,Cafe,14,14,14,14,14,14,14,14,14
+Bellandur,"Cafe, Desserts",4,4,4,4,4,4,4,4,4
+Bellandur,"Cafe, Fast Food",6,6,6,6,6,6,6,6,6
+Bellandur,Chinese,7,7,7,7,7,7,7,7,7
+Bellandur,"Chinese, North Indian",4,4,4,4,4,4,4,4,4
+Bellandur,"Chinese, Thai",2,2,2,2,2,2,2,2,2
+Bellandur,"Chinese, Thai, Momos",1,1,1,1,1,1,1,1,1
+Bellandur,Continental,8,8,8,8,8,8,8,8,8
+Bellandur,"Desserts, Bakery",13,13,13,13,13,13,13,13,13
+Bellandur,"Desserts, Beverages",4,4,4,4,4,4,4,4,4
+Bellandur,"Desserts, Ice Cream",2,2,2,2,2,2,2,2,2
+Bellandur,Fast Food,19,19,19,19,19,19,19,19,19
+Bellandur,"Fast Food, Beverages",3,3,3,3,3,3,3,3,3
+Bellandur,"Fast Food, Burger",2,2,2,2,2,2,2,2,2
+Bellandur,"Fast Food, Rolls",8,8,8,8,8,8,8,8,8
+Bellandur,Ice Cream,2,2,2,2,2,2,2,2,2
+Bellandur,"Ice Cream, Desserts",16,16,16,16,16,16,16,16,16
+Bellandur,"Italian, Pizza",2,2,2,2,2,2,2,2,2
+Bellandur,Kerala,4,4,4,4,4,4,4,4,4
+Bellandur,Mithai,1,1,1,1,1,1,1,1,1
+Bellandur,"Mithai, Street Food",5,5,5,5,5,5,5,5,5
+Bellandur,North Indian,120,120,120,120,120,120,120,120,120
+Bellandur,"North Indian, Biryani",6,6,6,6,6,6,6,6,6
+Bellandur,"North Indian, Chinese",72,72,72,72,72,72,72,72,72
+Bellandur,"North Indian, Chinese, Biryani",10,10,10,10,10,10,10,10,10
+Bellandur,"North Indian, South Indian",10,10,10,10,10,10,10,10,10
+Bellandur,"North Indian, South Indian, Chinese",7,7,7,7,7,7,7,7,7
+Bellandur,Pizza,2,2,2,2,2,2,2,2,2
+Bellandur,"Pizza, Fast Food",4,4,4,4,4,4,4,4,4
+Bellandur,South Indian,20,20,20,20,20,20,20,20,20
+Bellandur,"South Indian, Biryani",4,4,4,4,4,4,4,4,4
+Bellandur,"South Indian, Chinese",4,4,4,4,4,4,4,4,4
+Bellandur,"South Indian, North Indian",4,4,4,4,4,4,4,4,4
+Bellandur,"South Indian, North Indian, Chinese",13,13,13,13,13,13,13,13,13
+Bellandur,"South Indian, North Indian, Chinese, Street Food",8,8,8,8,8,8,8,8,8
+Bellandur,Street Food,11,11,11,11,11,11,11,11,11
+Brigade Road,Bakery,22,22,22,22,22,22,22,22,22
+Brigade Road,"Bakery, Fast Food",4,4,4,4,4,4,4,4,4
+Brigade Road,"Beverages, Fast Food",7,7,7,7,7,7,7,7,7
+Brigade Road,"Burger, Fast Food",9,9,9,9,9,9,9,9,9
+Brigade Road,Cafe,31,31,31,31,31,31,31,31,31
+Brigade Road,"Cafe, Fast Food",4,4,4,4,4,4,4,4,4
+Brigade Road,Chinese,5,5,5,5,5,5,5,5,5
+Brigade Road,"Chinese, Momos",5,5,5,5,5,5,5,5,5
+Brigade Road,"Chinese, Thai, Momos",2,2,2,2,2,2,2,2,2
+Brigade Road,Desserts,31,31,31,31,31,31,31,31,31
+Brigade Road,"Desserts, Beverages",10,10,10,10,10,10,10,10,10
+Brigade Road,"Desserts, Ice Cream",1,1,1,1,1,1,1,1,1
+Brigade Road,Fast Food,12,12,12,12,12,12,12,12,12
+Brigade Road,Finger Food,21,21,21,21,21,21,21,21,21
+Brigade Road,Ice Cream,13,13,13,13,13,13,13,13,13
+Brigade Road,"Ice Cream, Desserts",16,16,16,16,16,16,16,16,16
+Brigade Road,Kerala,12,12,12,12,12,12,12,12,12
+Brigade Road,"Kerala, South Indian",12,12,12,12,12,12,12,12,12
+Brigade Road,"Mithai, Street Food",8,8,8,8,8,8,8,8,8
+Brigade Road,North Indian,39,39,39,39,39,39,39,39,39
+Brigade Road,"North Indian, Chinese",24,24,24,24,24,24,24,24,24
+Brigade Road,"North Indian, Chinese, Seafood",11,11,11,11,11,11,11,11,11
+Brigade Road,"North Indian, Fast Food",6,6,6,6,6,6,6,6,6
+Brigade Road,"North Indian, Mughlai",7,7,7,7,7,7,7,7,7
+Brigade Road,"Pizza, Fast Food",3,3,3,3,3,3,3,3,3
+Brigade Road,South Indian,12,12,12,12,12,12,12,12,12
+Brigade Road,"South Indian, Biryani",3,3,3,3,3,3,3,3,3
+Brigade Road,"South Indian, Chinese",20,20,20,20,20,20,20,20,20
+Brigade Road,"South Indian, North Indian",13,13,13,13,13,13,13,13,13
+Brigade Road,"South Indian, North Indian, Chinese",22,22,22,22,22,22,22,22,22
+Brookefield,Arabian,2,2,2,2,2,2,2,2,2
+Brookefield,Bakery,8,8,8,8,8,8,8,8,8
+Brookefield,"Bakery, Desserts",5,5,5,5,5,5,5,5,5
+Brookefield,Beverages,7,7,7,7,7,7,7,7,7
+Brookefield,"Beverages, Desserts",6,6,6,6,6,6,6,6,6
+Brookefield,"Beverages, Fast Food",12,12,12,12,12,12,12,12,12
+Brookefield,Biryani,10,10,10,10,10,10,10,10,10
+Brookefield,"Biryani, North Indian, Chinese",2,2,2,2,2,2,2,2,2
+Brookefield,"Burger, Fast Food",4,4,4,4,4,4,4,4,4
+Brookefield,Cafe,4,4,4,4,4,4,4,4,4
+Brookefield,"Cafe, Fast Food",2,2,2,2,2,2,2,2,2
+Brookefield,"Chinese, Momos",1,1,1,1,1,1,1,1,1
+Brookefield,"Chinese, Thai",8,8,8,8,8,8,8,8,8
+Brookefield,Desserts,5,5,5,5,5,5,5,5,5
+Brookefield,"Desserts, Ice Cream",10,10,10,10,10,10,10,10,10
+Brookefield,Fast Food,4,4,4,4,4,4,4,4,4
+Brookefield,"Fast Food, Beverages",1,1,1,1,1,1,1,1,1
+Brookefield,"Fast Food, Burger",7,7,7,7,7,7,7,7,7
+Brookefield,"Ice Cream, Desserts",10,10,10,10,10,10,10,10,10
+Brookefield,Kerala,6,6,6,6,6,6,6,6,6
+Brookefield,"Mithai, Street Food",9,9,9,9,9,9,9,9,9
+Brookefield,North Indian,37,37,37,37,37,37,37,37,37
+Brookefield,"North Indian, Chinese",28,28,28,28,28,28,28,28,28
+Brookefield,"North Indian, Chinese, Biryani",9,9,9,9,9,9,9,9,9
+Brookefield,"North Indian, Continental",5,5,5,5,5,5,5,5,5
+Brookefield,"North Indian, Mughlai, Chinese",4,4,4,4,4,4,4,4,4
+Brookefield,"North Indian, South Indian, Chinese",2,2,2,2,2,2,2,2,2
+Brookefield,"North Indian, Street Food",2,2,2,2,2,2,2,2,2
+Brookefield,"Pizza, Fast Food",5,5,5,5,5,5,5,5,5
+Brookefield,South Indian,24,24,24,24,24,24,24,24,24
+Brookefield,"South Indian, Biryani",5,5,5,5,5,5,5,5,5
+Brookefield,"South Indian, North Indian",4,4,4,4,4,4,4,4,4
+Brookefield,"South Indian, North Indian, Chinese",18,18,18,18,18,18,18,18,18
+Brookefield,Street Food,7,7,7,7,7,7,7,7,7
+Church Street,Andhra,11,11,11,11,11,11,11,11,11
+Church Street,"Beverages, Fast Food",7,7,7,7,7,7,7,7,7
+Church Street,"Biryani, Kebab",11,11,11,11,11,11,11,11,11
+Church Street,"Biryani, North Indian",1,1,1,1,1,1,1,1,1
+Church Street,Cafe,10,10,10,10,10,10,10,10,10
+Church Street,"Cafe, Desserts",1,1,1,1,1,1,1,1,1
+Church Street,"Cafe, Fast Food",10,10,10,10,10,10,10,10,10
+Church Street,Chinese,21,21,21,21,21,21,21,21,21
+Church Street,"Chinese, Momos",8,8,8,8,8,8,8,8,8
+Church Street,Continental,5,5,5,5,5,5,5,5,5
+Church Street,Desserts,11,11,11,11,11,11,11,11,11
+Church Street,"Desserts, Ice Cream",27,27,27,27,27,27,27,27,27
+Church Street,Fast Food,10,10,10,10,10,10,10,10,10
+Church Street,"Fast Food, Beverages",6,6,6,6,6,6,6,6,6
+Church Street,"Ice Cream, Desserts",4,4,4,4,4,4,4,4,4
+Church Street,North Indian,29,29,29,29,29,29,29,29,29
+Church Street,"North Indian, Biryani",5,5,5,5,5,5,5,5,5
+Church Street,"North Indian, Chinese",2,2,2,2,2,2,2,2,2
+Church Street,"North Indian, Mughlai",11,11,11,11,11,11,11,11,11
+Church Street,"Pizza, Fast Food",1,1,1,1,1,1,1,1,1
+Church Street,South Indian,5,5,5,5,5,5,5,5,5
+Church Street,"South Indian, North Indian, Chinese, Street Food",8,8,8,8,8,8,8,8,8
+Electronic City,Andhra,7,7,7,7,7,7,7,7,7
+Electronic City,"Andhra, Biryani",10,10,10,10,10,10,10,10,10
+Electronic City,Arabian,2,2,2,2,2,2,2,2,2
+Electronic City,Bakery,6,6,6,6,6,6,6,6,6
+Electronic City,"Bakery, Desserts",13,13,13,13,13,13,13,13,13
+Electronic City,"Bakery, Fast Food",6,6,6,6,6,6,6,6,6
+Electronic City,Beverages,1,1,1,1,1,1,1,1,1
+Electronic City,"Beverages, Desserts",3,3,3,3,3,3,3,3,3
+Electronic City,"Beverages, Fast Food",3,3,3,3,3,3,3,3,3
+Electronic City,Biryani,5,5,5,5,5,5,5,5,5
+Electronic City,"Biryani, Fast Food",3,3,3,3,3,3,3,3,3
+Electronic City,"Biryani, Kebab",3,3,3,3,3,3,3,3,3
+Electronic City,"Biryani, North Indian",4,4,4,4,4,4,4,4,4
+Electronic City,"Biryani, North Indian, Chinese",3,3,3,3,3,3,3,3,3
+Electronic City,"Biryani, South Indian",2,2,2,2,2,2,2,2,2
+Electronic City,"Burger, Fast Food",5,5,5,5,5,5,5,5,5
+Electronic City,Cafe,5,5,5,5,5,5,5,5,5
+Electronic City,"Cafe, Desserts",4,4,4,4,4,4,4,4,4
+Electronic City,"Cafe, Fast Food",2,2,2,2,2,2,2,2,2
+Electronic City,Chinese,8,8,8,8,8,8,8,8,8
+Electronic City,"Chinese, North Indian",10,10,10,10,10,10,10,10,10
+Electronic City,"Chinese, Thai",3,3,3,3,3,3,3,3,3
+Electronic City,Desserts,8,8,8,8,8,8,8,8,8
+Electronic City,Fast Food,9,9,9,9,9,9,9,9,9
+Electronic City,"Fast Food, Beverages",5,5,5,5,5,5,5,5,5
+Electronic City,"Fast Food, Burger",5,5,5,5,5,5,5,5,5
+Electronic City,"Fast Food, Rolls",3,3,3,3,3,3,3,3,3
+Electronic City,Finger Food,17,17,17,17,17,17,17,17,17
+Electronic City,Ice Cream,1,1,1,1,1,1,1,1,1
+Electronic City,"Ice Cream, Desserts",8,8,8,8,8,8,8,8,8
+Electronic City,Kerala,3,3,3,3,3,3,3,3,3
+Electronic City,"Kerala, South Indian",4,4,4,4,4,4,4,4,4
+Electronic City,Mithai,4,4,4,4,4,4,4,4,4
+Electronic City,"Mithai, Street Food",6,6,6,6,6,6,6,6,6
+Electronic City,North Indian,38,38,38,38,38,38,38,38,38
+Electronic City,"North Indian, Biryani",4,4,4,4,4,4,4,4,4
+Electronic City,"North Indian, Chinese",71,71,71,71,71,71,71,71,71
+Electronic City,"North Indian, Chinese, Biryani",4,4,4,4,4,4,4,4,4
+Electronic City,"North Indian, Chinese, Continental",5,5,5,5,5,5,5,5,5
+Electronic City,"North Indian, Chinese, Fast Food",3,3,3,3,3,3,3,3,3
+Electronic City,"North Indian, Chinese, South Indian",2,2,2,2,2,2,2,2,2
+Electronic City,"North Indian, South Indian",8,8,8,8,8,8,8,8,8
+Electronic City,"North Indian, South Indian, Chinese",10,10,10,10,10,10,10,10,10
+Electronic City,Pizza,1,1,1,1,1,1,1,1,1
+Electronic City,"Pizza, Fast Food",5,5,5,5,5,5,5,5,5
+Electronic City,South Indian,21,21,21,21,21,21,21,21,21
+Electronic City,"South Indian, Chinese",2,2,2,2,2,2,2,2,2
+Electronic City,"South Indian, Fast Food",2,2,2,2,2,2,2,2,2
+Electronic City,"South Indian, North Indian",8,8,8,8,8,8,8,8,8
+Electronic City,"South Indian, North Indian, Chinese",21,21,21,21,21,21,21,21,21
+Electronic City,"South Indian, North Indian, Chinese, Street Food",2,2,2,2,2,2,2,2,2
+Electronic City,Street Food,4,4,4,4,4,4,4,4,4
+Frazer Town,Bakery,16,16,16,16,16,16,16,16,16
+Frazer Town,"Bakery, Desserts",23,23,23,23,23,23,23,23,23
+Frazer Town,"Bakery, Fast Food",10,10,10,10,10,10,10,10,10
+Frazer Town,"Beverages, Fast Food",4,4,4,4,4,4,4,4,4
+Frazer Town,Biryani,9,9,9,9,9,9,9,9,9
+Frazer Town,"Biryani, North Indian, Chinese",2,2,2,2,2,2,2,2,2
+Frazer Town,"Biryani, South Indian",2,2,2,2,2,2,2,2,2
+Frazer Town,"Burger, Fast Food",1,1,1,1,1,1,1,1,1
+Frazer Town,Cafe,6,6,6,6,6,6,6,6,6
+Frazer Town,"Cafe, Bakery",4,4,4,4,4,4,4,4,4
+Frazer Town,"Cafe, Continental",13,13,13,13,13,13,13,13,13
+Frazer Town,"Cafe, Fast Food",8,8,8,8,8,8,8,8,8
+Frazer Town,Chinese,6,6,6,6,6,6,6,6,6
+Frazer Town,"Chinese, Momos",13,13,13,13,13,13,13,13,13
+Frazer Town,"Chinese, North Indian",5,5,5,5,5,5,5,5,5
+Frazer Town,"Chinese, Thai",2,2,2,2,2,2,2,2,2
+Frazer Town,"Chinese, Thai, Momos",5,5,5,5,5,5,5,5,5
+Frazer Town,Desserts,7,7,7,7,7,7,7,7,7
+Frazer Town,"Desserts, Beverages",11,11,11,11,11,11,11,11,11
+Frazer Town,"Desserts, Ice Cream",11,11,11,11,11,11,11,11,11
+Frazer Town,Fast Food,5,5,5,5,5,5,5,5,5
+Frazer Town,"Fast Food, Burger",1,1,1,1,1,1,1,1,1
+Frazer Town,"Ice Cream, Desserts",16,16,16,16,16,16,16,16,16
+Frazer Town,"Italian, Pizza",9,9,9,9,9,9,9,9,9
+Frazer Town,"Mithai, Street Food",6,6,6,6,6,6,6,6,6
+Frazer Town,North Indian,27,27,27,27,27,27,27,27,27
+Frazer Town,"North Indian, Biryani",3,3,3,3,3,3,3,3,3
+Frazer Town,"North Indian, Chinese",14,14,14,14,14,14,14,14,14
+Frazer Town,"North Indian, Mughlai",10,10,10,10,10,10,10,10,10
+Frazer Town,"Pizza, Fast Food",4,4,4,4,4,4,4,4,4
+Frazer Town,South Indian,37,37,37,37,37,37,37,37,37
+Frazer Town,"South Indian, Biryani",7,7,7,7,7,7,7,7,7
+Frazer Town,"South Indian, Chinese",7,7,7,7,7,7,7,7,7
+Frazer Town,"South Indian, Fast Food",6,6,6,6,6,6,6,6,6
+Frazer Town,"South Indian, North Indian, Chinese",8,8,8,8,8,8,8,8,8
+Frazer Town,Street Food,6,6,6,6,6,6,6,6,6
+HSR,Andhra,10,10,10,10,10,10,10,10,10
+HSR,"Andhra, Biryani",2,2,2,2,2,2,2,2,2
+HSR,Arabian,8,8,8,8,8,8,8,8,8
+HSR,Bakery,10,10,10,10,10,10,10,10,10
+HSR,"Bakery, Desserts",33,33,33,33,33,33,33,33,33
+HSR,"Bakery, Fast Food",5,5,5,5,5,5,5,5,5
+HSR,Beverages,11,11,11,11,11,11,11,11,11
+HSR,"Beverages, Fast Food",8,8,8,8,8,8,8,8,8
+HSR,Biryani,27,27,27,27,27,27,27,27,27
+HSR,"Biryani, Fast Food",4,4,4,4,4,4,4,4,4
+HSR,"Biryani, Kebab",9,9,9,9,9,9,9,9,9
+HSR,"Biryani, North Indian",16,16,16,16,16,16,16,16,16
+HSR,"Biryani, North Indian, Chinese",6,6,6,6,6,6,6,6,6
+HSR,"Biryani, South Indian",14,14,14,14,14,14,14,14,14
+HSR,"Burger, Fast Food",16,16,16,16,16,16,16,16,16
+HSR,Cafe,7,7,7,7,7,7,7,7,7
+HSR,"Cafe, Continental",6,6,6,6,6,6,6,6,6
+HSR,"Cafe, Fast Food",14,14,14,14,14,14,14,14,14
+HSR,Chinese,16,16,16,16,16,16,16,16,16
+HSR,"Chinese, Momos",5,5,5,5,5,5,5,5,5
+HSR,"Chinese, North Indian",8,8,8,8,8,8,8,8,8
+HSR,"Chinese, Thai",5,5,5,5,5,5,5,5,5
+HSR,"Chinese, Thai, Momos",14,14,14,14,14,14,14,14,14
+HSR,Desserts,25,25,25,25,25,25,25,25,25
+HSR,"Desserts, Bakery",9,9,9,9,9,9,9,9,9
+HSR,"Desserts, Beverages",19,19,19,19,19,19,19,19,19
+HSR,"Desserts, Ice Cream",11,11,11,11,11,11,11,11,11
+HSR,Fast Food,24,24,24,24,24,24,24,24,24
+HSR,"Fast Food, Beverages",14,14,14,14,14,14,14,14,14
+HSR,"Fast Food, Burger",5,5,5,5,5,5,5,5,5
+HSR,"Fast Food, Rolls",4,4,4,4,4,4,4,4,4
+HSR,Ice Cream,15,15,15,15,15,15,15,15,15
+HSR,"Ice Cream, Desserts",30,30,30,30,30,30,30,30,30
+HSR,"Italian, Pizza",7,7,7,7,7,7,7,7,7
+HSR,Kerala,15,15,15,15,15,15,15,15,15
+HSR,"Mithai, Street Food",31,31,31,31,31,31,31,31,31
+HSR,North Indian,125,125,125,125,125,125,125,125,125
+HSR,"North Indian, Biryani",9,9,9,9,9,9,9,9,9
+HSR,"North Indian, Chinese",92,92,92,92,92,92,92,92,92
+HSR,"North Indian, Chinese, Biryani",22,22,22,22,22,22,22,22,22
+HSR,"North Indian, Chinese, Continental",1,1,1,1,1,1,1,1,1
+HSR,"North Indian, Chinese, Fast Food",10,10,10,10,10,10,10,10,10
+HSR,"North Indian, Continental",14,14,14,14,14,14,14,14,14
+HSR,"North Indian, Fast Food",17,17,17,17,17,17,17,17,17
+HSR,"North Indian, Mughlai",20,20,20,20,20,20,20,20,20
+HSR,"North Indian, Mughlai, Chinese",4,4,4,4,4,4,4,4,4
+HSR,"North Indian, South Indian, Chinese",11,11,11,11,11,11,11,11,11
+HSR,Pizza,10,10,10,10,10,10,10,10,10
+HSR,"Pizza, Fast Food",5,5,5,5,5,5,5,5,5
+HSR,South Indian,56,56,56,56,56,56,56,56,56
+HSR,"South Indian, Biryani",9,9,9,9,9,9,9,9,9
+HSR,"South Indian, Fast Food",12,12,12,12,12,12,12,12,12
+HSR,"South Indian, North Indian",10,10,10,10,10,10,10,10,10
+HSR,"South Indian, North Indian, Chinese",1,1,1,1,1,1,1,1,1
+HSR,"South Indian, North Indian, Chinese, Street Food",25,25,25,25,25,25,25,25,25
+HSR,Street Food,12,12,12,12,12,12,12,12,12
+Indiranagar,Andhra,14,14,14,14,14,14,14,14,14
+Indiranagar,"Andhra, Biryani",2,2,2,2,2,2,2,2,2
+Indiranagar,Bakery,17,17,17,17,17,17,17,17,17
+Indiranagar,"Bakery, Desserts",18,18,18,18,18,18,18,18,18
+Indiranagar,Beverages,3,3,3,3,3,3,3,3,3
+Indiranagar,"Beverages, Fast Food",6,6,6,6,6,6,6,6,6
+Indiranagar,Biryani,33,33,33,33,33,33,33,33,33
+Indiranagar,"Biryani, Kebab",3,3,3,3,3,3,3,3,3
+Indiranagar,"Biryani, North Indian",11,11,11,11,11,11,11,11,11
+Indiranagar,"Burger, Fast Food",3,3,3,3,3,3,3,3,3
+Indiranagar,Cafe,28,28,28,28,28,28,28,28,28
+Indiranagar,"Cafe, Bakery",9,9,9,9,9,9,9,9,9
+Indiranagar,"Cafe, Continental",31,31,31,31,31,31,31,31,31
+Indiranagar,"Cafe, Desserts",14,14,14,14,14,14,14,14,14
+Indiranagar,"Cafe, Fast Food",10,10,10,10,10,10,10,10,10
+Indiranagar,Chinese,23,23,23,23,23,23,23,23,23
+Indiranagar,"Chinese, Momos",9,9,9,9,9,9,9,9,9
+Indiranagar,"Chinese, North Indian",2,2,2,2,2,2,2,2,2
+Indiranagar,Continental,7,7,7,7,7,7,7,7,7
+Indiranagar,Desserts,45,45,45,45,45,45,45,45,45
+Indiranagar,"Desserts, Bakery",7,7,7,7,7,7,7,7,7
+Indiranagar,"Desserts, Beverages",19,19,19,19,19,19,19,19,19
+Indiranagar,"Desserts, Ice Cream",20,20,20,20,20,20,20,20,20
+Indiranagar,Fast Food,13,13,13,13,13,13,13,13,13
+Indiranagar,"Fast Food, Beverages",2,2,2,2,2,2,2,2,2
+Indiranagar,"Fast Food, Burger",1,1,1,1,1,1,1,1,1
+Indiranagar,"Fast Food, Rolls",18,18,18,18,18,18,18,18,18
+Indiranagar,Finger Food,7,7,7,7,7,7,7,7,7
+Indiranagar,Ice Cream,6,6,6,6,6,6,6,6,6
+Indiranagar,"Ice Cream, Desserts",10,10,10,10,10,10,10,10,10
+Indiranagar,Kerala,10,10,10,10,10,10,10,10,10
+Indiranagar,"Kerala, South Indian",4,4,4,4,4,4,4,4,4
+Indiranagar,Mithai,5,5,5,5,5,5,5,5,5
+Indiranagar,"Mithai, Street Food",17,17,17,17,17,17,17,17,17
+Indiranagar,North Indian,84,84,84,84,84,84,84,84,84
+Indiranagar,"North Indian, Biryani",11,11,11,11,11,11,11,11,11
+Indiranagar,"North Indian, Chinese",52,52,52,52,52,52,52,52,52
+Indiranagar,"North Indian, Chinese, Biryani",13,13,13,13,13,13,13,13,13
+Indiranagar,"North Indian, Chinese, Continental",14,14,14,14,14,14,14,14,14
+Indiranagar,"North Indian, Chinese, Fast Food",4,4,4,4,4,4,4,4,4
+Indiranagar,"North Indian, Chinese, Seafood",7,7,7,7,7,7,7,7,7
+Indiranagar,"North Indian, Chinese, South Indian",13,13,13,13,13,13,13,13,13
+Indiranagar,"North Indian, Continental",5,5,5,5,5,5,5,5,5
+Indiranagar,"North Indian, Fast Food",2,2,2,2,2,2,2,2,2
+Indiranagar,"North Indian, Mughlai",9,9,9,9,9,9,9,9,9
+Indiranagar,"North Indian, Mughlai, Chinese",10,10,10,10,10,10,10,10,10
+Indiranagar,"North Indian, South Indian",2,2,2,2,2,2,2,2,2
+Indiranagar,"North Indian, Street Food",7,7,7,7,7,7,7,7,7
+Indiranagar,Pizza,7,7,7,7,7,7,7,7,7
+Indiranagar,"Pizza, Fast Food",4,4,4,4,4,4,4,4,4
+Indiranagar,South Indian,41,41,41,41,41,41,41,41,41
+Indiranagar,"South Indian, Biryani",6,6,6,6,6,6,6,6,6
+Indiranagar,"South Indian, Chinese",1,1,1,1,1,1,1,1,1
+Indiranagar,"South Indian, Chinese, North Indian",1,1,1,1,1,1,1,1,1
+Indiranagar,"South Indian, Fast Food",7,7,7,7,7,7,7,7,7
+Indiranagar,"South Indian, North Indian",3,3,3,3,3,3,3,3,3
+Indiranagar,"South Indian, North Indian, Chinese",18,18,18,18,18,18,18,18,18
+Indiranagar,"South Indian, North Indian, Chinese, Street Food",2,2,2,2,2,2,2,2,2
+Indiranagar,Street Food,8,8,8,8,8,8,8,8,8
+JP Nagar,Andhra,4,4,4,4,4,4,4,4,4
+JP Nagar,"Andhra, Biryani",8,8,8,8,8,8,8,8,8
+JP Nagar,Arabian,2,2,2,2,2,2,2,2,2
+JP Nagar,Bakery,10,10,10,10,10,10,10,10,10
+JP Nagar,"Bakery, Desserts",50,50,50,50,50,50,50,50,50
+JP Nagar,"Bakery, Fast Food",2,2,2,2,2,2,2,2,2
+JP Nagar,"Beverages, Fast Food",10,10,10,10,10,10,10,10,10
+JP Nagar,Biryani,11,11,11,11,11,11,11,11,11
+JP Nagar,"Biryani, Fast Food",10,10,10,10,10,10,10,10,10
+JP Nagar,"Biryani, Kebab",9,9,9,9,9,9,9,9,9
+JP Nagar,"Biryani, North Indian",7,7,7,7,7,7,7,7,7
+JP Nagar,"Biryani, North Indian, Chinese",16,16,16,16,16,16,16,16,16
+JP Nagar,"Biryani, South Indian",8,8,8,8,8,8,8,8,8
+JP Nagar,"Burger, Fast Food",3,3,3,3,3,3,3,3,3
+JP Nagar,Cafe,18,18,18,18,18,18,18,18,18
+JP Nagar,"Cafe, Continental",3,3,3,3,3,3,3,3,3
+JP Nagar,"Cafe, Desserts",18,18,18,18,18,18,18,18,18
+JP Nagar,"Cafe, Fast Food",5,5,5,5,5,5,5,5,5
+JP Nagar,Chinese,10,10,10,10,10,10,10,10,10
+JP Nagar,"Chinese, Momos",8,8,8,8,8,8,8,8,8
+JP Nagar,"Chinese, North Indian",26,26,26,26,26,26,26,26,26
+JP Nagar,"Chinese, Thai",22,22,22,22,22,22,22,22,22
+JP Nagar,"Chinese, Thai, Momos",8,8,8,8,8,8,8,8,8
+JP Nagar,Desserts,16,16,16,16,16,16,16,16,16
+JP Nagar,"Desserts, Bakery",4,4,4,4,4,4,4,4,4
+JP Nagar,"Desserts, Beverages",3,3,3,3,3,3,3,3,3
+JP Nagar,"Desserts, Ice Cream",15,15,15,15,15,15,15,15,15
+JP Nagar,Fast Food,9,9,9,9,9,9,9,9,9
+JP Nagar,"Fast Food, Beverages",3,3,3,3,3,3,3,3,3
+JP Nagar,"Fast Food, Burger",4,4,4,4,4,4,4,4,4
+JP Nagar,Ice Cream,7,7,7,7,7,7,7,7,7
+JP Nagar,"Ice Cream, Desserts",11,11,11,11,11,11,11,11,11
+JP Nagar,"Italian, Pizza",1,1,1,1,1,1,1,1,1
+JP Nagar,Kerala,4,4,4,4,4,4,4,4,4
+JP Nagar,"Mithai, Street Food",21,21,21,21,21,21,21,21,21
+JP Nagar,North Indian,118,118,118,118,118,118,118,118,118
+JP Nagar,"North Indian, Biryani",10,10,10,10,10,10,10,10,10
+JP Nagar,"North Indian, Chinese",42,42,42,42,42,42,42,42,42
+JP Nagar,"North Indian, Chinese, Biryani",12,12,12,12,12,12,12,12,12
+JP Nagar,"North Indian, Chinese, Continental",12,12,12,12,12,12,12,12,12
+JP Nagar,"North Indian, Chinese, Fast Food",2,2,2,2,2,2,2,2,2
+JP Nagar,"North Indian, Chinese, South Indian",10,10,10,10,10,10,10,10,10
+JP Nagar,"North Indian, Continental",13,13,13,13,13,13,13,13,13
+JP Nagar,"North Indian, Mughlai",3,3,3,3,3,3,3,3,3
+JP Nagar,"North Indian, South Indian",13,13,13,13,13,13,13,13,13
+JP Nagar,"North Indian, South Indian, Chinese",17,17,17,17,17,17,17,17,17
+JP Nagar,"North Indian, Street Food",3,3,3,3,3,3,3,3,3
+JP Nagar,Pizza,21,21,21,21,21,21,21,21,21
+JP Nagar,"Pizza, Fast Food",2,2,2,2,2,2,2,2,2
+JP Nagar,South Indian,46,46,46,46,46,46,46,46,46
+JP Nagar,"South Indian, Biryani",9,9,9,9,9,9,9,9,9
+JP Nagar,"South Indian, Chinese",2,2,2,2,2,2,2,2,2
+JP Nagar,"South Indian, Chinese, North Indian",1,1,1,1,1,1,1,1,1
+JP Nagar,"South Indian, North Indian",7,7,7,7,7,7,7,7,7
+JP Nagar,"South Indian, North Indian, Chinese",42,42,42,42,42,42,42,42,42
+JP Nagar,"South Indian, North Indian, Chinese, Street Food",16,16,16,16,16,16,16,16,16
+JP Nagar,Street Food,7,7,7,7,7,7,7,7,7
+Jayanagar,Andhra,8,8,8,8,8,8,8,8,8
+Jayanagar,"Andhra, Biryani",4,4,4,4,4,4,4,4,4
+Jayanagar,Arabian,2,2,2,2,2,2,2,2,2
+Jayanagar,Bakery,6,6,6,6,6,6,6,6,6
+Jayanagar,"Bakery, Desserts",11,11,11,11,11,11,11,11,11
+Jayanagar,"Bakery, Fast Food",11,11,11,11,11,11,11,11,11
+Jayanagar,Beverages,13,13,13,13,13,13,13,13,13
+Jayanagar,"Beverages, Desserts",13,13,13,13,13,13,13,13,13
+Jayanagar,"Beverages, Fast Food",11,11,11,11,11,11,11,11,11
+Jayanagar,Biryani,19,19,19,19,19,19,19,19,19
+Jayanagar,"Biryani, Fast Food",12,12,12,12,12,12,12,12,12
+Jayanagar,"Biryani, Kebab",11,11,11,11,11,11,11,11,11
+Jayanagar,"Biryani, North Indian, Chinese",4,4,4,4,4,4,4,4,4
+Jayanagar,"Biryani, South Indian",11,11,11,11,11,11,11,11,11
+Jayanagar,"Burger, Fast Food",3,3,3,3,3,3,3,3,3
+Jayanagar,Cafe,30,30,30,30,30,30,30,30,30
+Jayanagar,"Cafe, Desserts",7,7,7,7,7,7,7,7,7
+Jayanagar,"Cafe, Fast Food",9,9,9,9,9,9,9,9,9
+Jayanagar,Chinese,6,6,6,6,6,6,6,6,6
+Jayanagar,"Chinese, Momos",10,10,10,10,10,10,10,10,10
+Jayanagar,"Chinese, Thai",9,9,9,9,9,9,9,9,9
+Jayanagar,"Chinese, Thai, Momos",12,12,12,12,12,12,12,12,12
+Jayanagar,Continental,2,2,2,2,2,2,2,2,2
+Jayanagar,Desserts,14,14,14,14,14,14,14,14,14
+Jayanagar,"Desserts, Bakery",14,14,14,14,14,14,14,14,14
+Jayanagar,"Desserts, Beverages",27,27,27,27,27,27,27,27,27
+Jayanagar,"Desserts, Ice Cream",22,22,22,22,22,22,22,22,22
+Jayanagar,Fast Food,36,36,36,36,36,36,36,36,36
+Jayanagar,"Fast Food, Beverages",8,8,8,8,8,8,8,8,8
+Jayanagar,"Fast Food, Burger",10,10,10,10,10,10,10,10,10
+Jayanagar,"Fast Food, Rolls",10,10,10,10,10,10,10,10,10
+Jayanagar,Finger Food,2,2,2,2,2,2,2,2,2
+Jayanagar,Ice Cream,3,3,3,3,3,3,3,3,3
+Jayanagar,"Ice Cream, Desserts",31,31,31,31,31,31,31,31,31
+Jayanagar,Mithai,7,7,7,7,7,7,7,7,7
+Jayanagar,"Mithai, Street Food",10,10,10,10,10,10,10,10,10
+Jayanagar,North Indian,25,25,25,25,25,25,25,25,25
+Jayanagar,"North Indian, Biryani",7,7,7,7,7,7,7,7,7
+Jayanagar,"North Indian, Chinese",67,67,67,67,67,67,67,67,67
+Jayanagar,"North Indian, Chinese, Biryani",10,10,10,10,10,10,10,10,10
+Jayanagar,"North Indian, Chinese, Seafood",3,3,3,3,3,3,3,3,3
+Jayanagar,"North Indian, Chinese, South Indian",14,14,14,14,14,14,14,14,14
+Jayanagar,"North Indian, Continental",6,6,6,6,6,6,6,6,6
+Jayanagar,"North Indian, Mughlai, Chinese",6,6,6,6,6,6,6,6,6
+Jayanagar,"North Indian, South Indian",16,16,16,16,16,16,16,16,16
+Jayanagar,"North Indian, South Indian, Chinese",2,2,2,2,2,2,2,2,2
+Jayanagar,"North Indian, Street Food",4,4,4,4,4,4,4,4,4
+Jayanagar,"Pizza, Fast Food",2,2,2,2,2,2,2,2,2
+Jayanagar,South Indian,86,86,86,86,86,86,86,86,86
+Jayanagar,"South Indian, Biryani",4,4,4,4,4,4,4,4,4
+Jayanagar,"South Indian, Chinese",10,10,10,10,10,10,10,10,10
+Jayanagar,"South Indian, Chinese, North Indian",4,4,4,4,4,4,4,4,4
+Jayanagar,"South Indian, Fast Food",7,7,7,7,7,7,7,7,7
+Jayanagar,"South Indian, North Indian",22,22,22,22,22,22,22,22,22
+Jayanagar,"South Indian, North Indian, Chinese",49,49,49,49,49,49,49,49,49
+Jayanagar,"South Indian, North Indian, Chinese, Street Food",14,14,14,14,14,14,14,14,14
+Jayanagar,Street Food,9,9,9,9,9,9,9,9,9
+Kalyan Nagar,Andhra,4,4,4,4,4,4,4,4,4
+Kalyan Nagar,Arabian,4,4,4,4,4,4,4,4,4
+Kalyan Nagar,Bakery,4,4,4,4,4,4,4,4,4
+Kalyan Nagar,"Bakery, Desserts",18,18,18,18,18,18,18,18,18
+Kalyan Nagar,"Bakery, Fast Food",3,3,3,3,3,3,3,3,3
+Kalyan Nagar,Beverages,2,2,2,2,2,2,2,2,2
+Kalyan Nagar,"Beverages, Fast Food",6,6,6,6,6,6,6,6,6
+Kalyan Nagar,Biryani,14,14,14,14,14,14,14,14,14
+Kalyan Nagar,"Biryani, Fast Food",2,2,2,2,2,2,2,2,2
+Kalyan Nagar,"Biryani, Kebab",12,12,12,12,12,12,12,12,12
+Kalyan Nagar,"Biryani, North Indian",10,10,10,10,10,10,10,10,10
+Kalyan Nagar,"Burger, Fast Food",4,4,4,4,4,4,4,4,4
+Kalyan Nagar,Cafe,30,30,30,30,30,30,30,30,30
+Kalyan Nagar,Chinese,9,9,9,9,9,9,9,9,9
+Kalyan Nagar,"Chinese, Momos",8,8,8,8,8,8,8,8,8
+Kalyan Nagar,"Chinese, Thai",1,1,1,1,1,1,1,1,1
+Kalyan Nagar,"Chinese, Thai, Momos",4,4,4,4,4,4,4,4,4
+Kalyan Nagar,Desserts,6,6,6,6,6,6,6,6,6
+Kalyan Nagar,"Desserts, Bakery",2,2,2,2,2,2,2,2,2
+Kalyan Nagar,"Desserts, Beverages",12,12,12,12,12,12,12,12,12
+Kalyan Nagar,"Desserts, Ice Cream",2,2,2,2,2,2,2,2,2
+Kalyan Nagar,Fast Food,13,13,13,13,13,13,13,13,13
+Kalyan Nagar,"Fast Food, Beverages",2,2,2,2,2,2,2,2,2
+Kalyan Nagar,"Fast Food, Burger",3,3,3,3,3,3,3,3,3
+Kalyan Nagar,"Fast Food, Rolls",2,2,2,2,2,2,2,2,2
+Kalyan Nagar,"Ice Cream, Desserts",9,9,9,9,9,9,9,9,9
+Kalyan Nagar,"Mithai, Street Food",4,4,4,4,4,4,4,4,4
+Kalyan Nagar,North Indian,24,24,24,24,24,24,24,24,24
+Kalyan Nagar,"North Indian, Biryani",6,6,6,6,6,6,6,6,6
+Kalyan Nagar,"North Indian, Chinese",24,24,24,24,24,24,24,24,24
+Kalyan Nagar,"North Indian, Chinese, South Indian",4,4,4,4,4,4,4,4,4
+Kalyan Nagar,"North Indian, Mughlai, Chinese",4,4,4,4,4,4,4,4,4
+Kalyan Nagar,"North Indian, South Indian",2,2,2,2,2,2,2,2,2
+Kalyan Nagar,"North Indian, South Indian, Chinese",2,2,2,2,2,2,2,2,2
+Kalyan Nagar,Pizza,2,2,2,2,2,2,2,2,2
+Kalyan Nagar,"Pizza, Fast Food",6,6,6,6,6,6,6,6,6
+Kalyan Nagar,South Indian,11,11,11,11,11,11,11,11,11
+Kalyan Nagar,"South Indian, North Indian",2,2,2,2,2,2,2,2,2
+Kalyan Nagar,"South Indian, North Indian, Chinese",4,4,4,4,4,4,4,4,4
+Kalyan Nagar,Street Food,5,5,5,5,5,5,5,5,5
+Kammanahalli,Arabian,13,13,13,13,13,13,13,13,13
+Kammanahalli,"Bakery, Desserts",4,4,4,4,4,4,4,4,4
+Kammanahalli,Biryani,6,6,6,6,6,6,6,6,6
+Kammanahalli,"Biryani, Kebab",1,1,1,1,1,1,1,1,1
+Kammanahalli,"Biryani, North Indian, Chinese",4,4,4,4,4,4,4,4,4
+Kammanahalli,"Burger, Fast Food",6,6,6,6,6,6,6,6,6
+Kammanahalli,"Cafe, Continental",7,7,7,7,7,7,7,7,7
+Kammanahalli,"Cafe, Desserts",2,2,2,2,2,2,2,2,2
+Kammanahalli,"Cafe, Fast Food",13,13,13,13,13,13,13,13,13
+Kammanahalli,Chinese,6,6,6,6,6,6,6,6,6
+Kammanahalli,"Chinese, Momos",8,8,8,8,8,8,8,8,8
+Kammanahalli,"Chinese, Thai, Momos",4,4,4,4,4,4,4,4,4
+Kammanahalli,Continental,8,8,8,8,8,8,8,8,8
+Kammanahalli,Fast Food,10,10,10,10,10,10,10,10,10
+Kammanahalli,"Fast Food, Beverages",6,6,6,6,6,6,6,6,6
+Kammanahalli,"Fast Food, Burger",4,4,4,4,4,4,4,4,4
+Kammanahalli,"Kerala, South Indian",10,10,10,10,10,10,10,10,10
+Kammanahalli,"Mithai, Street Food",11,11,11,11,11,11,11,11,11
+Kammanahalli,North Indian,6,6,6,6,6,6,6,6,6
+Kammanahalli,"North Indian, Chinese",21,21,21,21,21,21,21,21,21
+Kammanahalli,"North Indian, Chinese, Continental",6,6,6,6,6,6,6,6,6
+Kammanahalli,"North Indian, Continental",5,5,5,5,5,5,5,5,5
+Kammanahalli,Pizza,2,2,2,2,2,2,2,2,2
+Kammanahalli,South Indian,16,16,16,16,16,16,16,16,16
+Kammanahalli,"South Indian, Biryani",5,5,5,5,5,5,5,5,5
+Kammanahalli,"South Indian, North Indian, Chinese, Street Food",5,5,5,5,5,5,5,5,5
+Kammanahalli,Street Food,2,2,2,2,2,2,2,2,2
+Koramangala 1st Block,Bakery,12,12,12,12,12,12,12,12,12
+Koramangala 1st Block,"Bakery, Desserts",29,29,29,29,29,29,29,29,29
+Koramangala 1st Block,"Bakery, Fast Food",1,1,1,1,1,1,1,1,1
+Koramangala 1st Block,"Beverages, Fast Food",7,7,7,7,7,7,7,7,7
+Koramangala 1st Block,Biryani,15,15,15,15,15,15,15,15,15
+Koramangala 1st Block,"Biryani, Kebab",23,23,23,23,23,23,23,23,23
+Koramangala 1st Block,"Biryani, North Indian",5,5,5,5,5,5,5,5,5
+Koramangala 1st Block,Cafe,14,14,14,14,14,14,14,14,14
+Koramangala 1st Block,"Cafe, Continental",20,20,20,20,20,20,20,20,20
+Koramangala 1st Block,Chinese,10,10,10,10,10,10,10,10,10
+Koramangala 1st Block,"Chinese, North Indian",6,6,6,6,6,6,6,6,6
+Koramangala 1st Block,"Chinese, Thai",10,10,10,10,10,10,10,10,10
+Koramangala 1st Block,Continental,19,19,19,19,19,19,19,19,19
+Koramangala 1st Block,"Desserts, Bakery",4,4,4,4,4,4,4,4,4
+Koramangala 1st Block,"Desserts, Beverages",6,6,6,6,6,6,6,6,6
+Koramangala 1st Block,Fast Food,10,10,10,10,10,10,10,10,10
+Koramangala 1st Block,Ice Cream,4,4,4,4,4,4,4,4,4
+Koramangala 1st Block,"Italian, Pizza",12,12,12,12,12,12,12,12,12
+Koramangala 1st Block,Kerala,20,20,20,20,20,20,20,20,20
+Koramangala 1st Block,"Kerala, South Indian",10,10,10,10,10,10,10,10,10
+Koramangala 1st Block,"Mithai, Street Food",6,6,6,6,6,6,6,6,6
+Koramangala 1st Block,North Indian,96,96,96,96,96,96,96,96,96
+Koramangala 1st Block,"North Indian, Biryani",6,6,6,6,6,6,6,6,6
+Koramangala 1st Block,"North Indian, Chinese",40,40,40,40,40,40,40,40,40
+Koramangala 1st Block,"North Indian, Chinese, Biryani",17,17,17,17,17,17,17,17,17
+Koramangala 1st Block,"North Indian, Fast Food",11,11,11,11,11,11,11,11,11
+Koramangala 1st Block,"North Indian, South Indian",16,16,16,16,16,16,16,16,16
+Koramangala 1st Block,"North Indian, South Indian, Chinese",9,9,9,9,9,9,9,9,9
+Koramangala 1st Block,South Indian,3,3,3,3,3,3,3,3,3
+Koramangala 1st Block,"South Indian, Chinese",6,6,6,6,6,6,6,6,6
+Koramangala 1st Block,"South Indian, North Indian",9,9,9,9,9,9,9,9,9
+Koramangala 4th Block,"Bakery, Desserts",22,22,22,22,22,22,22,22,22
+Koramangala 4th Block,Beverages,3,3,3,3,3,3,3,3,3
+Koramangala 4th Block,"Biryani, Kebab",10,10,10,10,10,10,10,10,10
+Koramangala 4th Block,"Biryani, North Indian",4,4,4,4,4,4,4,4,4
+Koramangala 4th Block,Cafe,20,20,20,20,20,20,20,20,20
+Koramangala 4th Block,"Cafe, Continental",8,8,8,8,8,8,8,8,8
+Koramangala 4th Block,"Cafe, Desserts",13,13,13,13,13,13,13,13,13
+Koramangala 4th Block,"Cafe, Fast Food",6,6,6,6,6,6,6,6,6
+Koramangala 4th Block,Chinese,19,19,19,19,19,19,19,19,19
+Koramangala 4th Block,"Chinese, Thai, Momos",9,9,9,9,9,9,9,9,9
+Koramangala 4th Block,Desserts,36,36,36,36,36,36,36,36,36
+Koramangala 4th Block,"Desserts, Bakery",10,10,10,10,10,10,10,10,10
+Koramangala 4th Block,"Desserts, Beverages",10,10,10,10,10,10,10,10,10
+Koramangala 4th Block,Finger Food,13,13,13,13,13,13,13,13,13
+Koramangala 4th Block,"Italian, Pizza",4,4,4,4,4,4,4,4,4
+Koramangala 4th Block,North Indian,54,54,54,54,54,54,54,54,54
+Koramangala 4th Block,"North Indian, Biryani",5,5,5,5,5,5,5,5,5
+Koramangala 4th Block,"North Indian, Chinese",13,13,13,13,13,13,13,13,13
+Koramangala 4th Block,"North Indian, Chinese, Biryani",6,6,6,6,6,6,6,6,6
+Koramangala 4th Block,"North Indian, Chinese, Seafood",14,14,14,14,14,14,14,14,14
+Koramangala 4th Block,"North Indian, Mughlai",7,7,7,7,7,7,7,7,7
+Koramangala 4th Block,"North Indian, South Indian",9,9,9,9,9,9,9,9,9
+Koramangala 4th Block,"North Indian, South Indian, Chinese",10,10,10,10,10,10,10,10,10
+Koramangala 4th Block,"Pizza, Fast Food",3,3,3,3,3,3,3,3,3
+Koramangala 4th Block,South Indian,4,4,4,4,4,4,4,4,4
+Koramangala 4th Block,"South Indian, North Indian",13,13,13,13,13,13,13,13,13
+Koramangala 4th Block,"South Indian, North Indian, Chinese, Street Food",5,5,5,5,5,5,5,5,5
+Koramangala 5th Block,Andhra,15,15,15,15,15,15,15,15,15
+Koramangala 5th Block,Arabian,6,6,6,6,6,6,6,6,6
+Koramangala 5th Block,"Bakery, Desserts",28,28,28,28,28,28,28,28,28
+Koramangala 5th Block,"Bakery, Fast Food",1,1,1,1,1,1,1,1,1
+Koramangala 5th Block,Beverages,20,20,20,20,20,20,20,20,20
+Koramangala 5th Block,"Beverages, Desserts",20,20,20,20,20,20,20,20,20
+Koramangala 5th Block,"Beverages, Fast Food",6,6,6,6,6,6,6,6,6
+Koramangala 5th Block,Biryani,13,13,13,13,13,13,13,13,13
+Koramangala 5th Block,"Biryani, Kebab",2,2,2,2,2,2,2,2,2
+Koramangala 5th Block,"Burger, Fast Food",10,10,10,10,10,10,10,10,10
+Koramangala 5th Block,Cafe,16,16,16,16,16,16,16,16,16
+Koramangala 5th Block,"Cafe, Bakery",16,16,16,16,16,16,16,16,16
+Koramangala 5th Block,"Cafe, Continental",26,26,26,26,26,26,26,26,26
+Koramangala 5th Block,Chinese,16,16,16,16,16,16,16,16,16
+Koramangala 5th Block,"Chinese, Momos",20,20,20,20,20,20,20,20,20
+Koramangala 5th Block,"Chinese, North Indian",10,10,10,10,10,10,10,10,10
+Koramangala 5th Block,"Chinese, Thai",3,3,3,3,3,3,3,3,3
+Koramangala 5th Block,"Chinese, Thai, Momos",15,15,15,15,15,15,15,15,15
+Koramangala 5th Block,Continental,5,5,5,5,5,5,5,5,5
+Koramangala 5th Block,Desserts,50,50,50,50,50,50,50,50,50
+Koramangala 5th Block,"Desserts, Beverages",29,29,29,29,29,29,29,29,29
+Koramangala 5th Block,Fast Food,40,40,40,40,40,40,40,40,40
+Koramangala 5th Block,"Fast Food, Beverages",5,5,5,5,5,5,5,5,5
+Koramangala 5th Block,"Fast Food, Burger",6,6,6,6,6,6,6,6,6
+Koramangala 5th Block,"Fast Food, Rolls",5,5,5,5,5,5,5,5,5
+Koramangala 5th Block,Finger Food,8,8,8,8,8,8,8,8,8
+Koramangala 5th Block,Ice Cream,19,19,19,19,19,19,19,19,19
+Koramangala 5th Block,"Ice Cream, Desserts",25,25,25,25,25,25,25,25,25
+Koramangala 5th Block,"Mithai, Street Food",10,10,10,10,10,10,10,10,10
+Koramangala 5th Block,North Indian,38,38,38,38,38,38,38,38,38
+Koramangala 5th Block,"North Indian, Chinese",32,32,32,32,32,32,32,32,32
+Koramangala 5th Block,"North Indian, Chinese, Biryani",10,10,10,10,10,10,10,10,10
+Koramangala 5th Block,"North Indian, Chinese, Continental",9,9,9,9,9,9,9,9,9
+Koramangala 5th Block,"North Indian, Fast Food",1,1,1,1,1,1,1,1,1
+Koramangala 5th Block,"North Indian, Mughlai",1,1,1,1,1,1,1,1,1
+Koramangala 5th Block,"North Indian, Mughlai, Chinese",2,2,2,2,2,2,2,2,2
+Koramangala 5th Block,"North Indian, South Indian",5,5,5,5,5,5,5,5,5
+Koramangala 5th Block,"North Indian, South Indian, Chinese",11,11,11,11,11,11,11,11,11
+Koramangala 5th Block,"Pizza, Fast Food",1,1,1,1,1,1,1,1,1
+Koramangala 5th Block,South Indian,15,15,15,15,15,15,15,15,15
+Koramangala 5th Block,"South Indian, North Indian, Chinese",15,15,15,15,15,15,15,15,15
+Koramangala 5th Block,"South Indian, North Indian, Chinese, Street Food",9,9,9,9,9,9,9,9,9
+Koramangala 5th Block,Street Food,3,3,3,3,3,3,3,3,3
+Koramangala 6th Block,"Andhra, Biryani",9,9,9,9,9,9,9,9,9
+Koramangala 6th Block,Bakery,5,5,5,5,5,5,5,5,5
+Koramangala 6th Block,"Bakery, Desserts",13,13,13,13,13,13,13,13,13
+Koramangala 6th Block,"Bakery, Fast Food",1,1,1,1,1,1,1,1,1
+Koramangala 6th Block,Biryani,13,13,13,13,13,13,13,13,13
+Koramangala 6th Block,"Biryani, South Indian",10,10,10,10,10,10,10,10,10
+Koramangala 6th Block,"Burger, Fast Food",3,3,3,3,3,3,3,3,3
+Koramangala 6th Block,Cafe,16,16,16,16,16,16,16,16,16
+Koramangala 6th Block,"Cafe, Desserts",11,11,11,11,11,11,11,11,11
+Koramangala 6th Block,"Cafe, Fast Food",1,1,1,1,1,1,1,1,1
+Koramangala 6th Block,Chinese,25,25,25,25,25,25,25,25,25
+Koramangala 6th Block,"Chinese, Momos",4,4,4,4,4,4,4,4,4
+Koramangala 6th Block,"Chinese, North Indian",4,4,4,4,4,4,4,4,4
+Koramangala 6th Block,Continental,8,8,8,8,8,8,8,8,8
+Koramangala 6th Block,Desserts,16,16,16,16,16,16,16,16,16
+Koramangala 6th Block,"Desserts, Bakery",8,8,8,8,8,8,8,8,8
+Koramangala 6th Block,"Desserts, Beverages",1,1,1,1,1,1,1,1,1
+Koramangala 6th Block,"Desserts, Ice Cream",14,14,14,14,14,14,14,14,14
+Koramangala 6th Block,Fast Food,13,13,13,13,13,13,13,13,13
+Koramangala 6th Block,"Fast Food, Burger",4,4,4,4,4,4,4,4,4
+Koramangala 6th Block,"Fast Food, Rolls",7,7,7,7,7,7,7,7,7
+Koramangala 6th Block,Finger Food,8,8,8,8,8,8,8,8,8
+Koramangala 6th Block,"Ice Cream, Desserts",1,1,1,1,1,1,1,1,1
+Koramangala 6th Block,"Italian, Pizza",11,11,11,11,11,11,11,11,11
+Koramangala 6th Block,"Kerala, South Indian",18,18,18,18,18,18,18,18,18
+Koramangala 6th Block,North Indian,45,45,45,45,45,45,45,45,45
+Koramangala 6th Block,"North Indian, Biryani",4,4,4,4,4,4,4,4,4
+Koramangala 6th Block,"North Indian, Chinese",19,19,19,19,19,19,19,19,19
+Koramangala 6th Block,"North Indian, Chinese, Biryani",11,11,11,11,11,11,11,11,11
+Koramangala 6th Block,"North Indian, Chinese, South Indian",8,8,8,8,8,8,8,8,8
+Koramangala 6th Block,"North Indian, Fast Food",8,8,8,8,8,8,8,8,8
+Koramangala 6th Block,"North Indian, Mughlai",4,4,4,4,4,4,4,4,4
+Koramangala 6th Block,"North Indian, South Indian, Chinese",9,9,9,9,9,9,9,9,9
+Koramangala 6th Block,"North Indian, Street Food",8,8,8,8,8,8,8,8,8
+Koramangala 6th Block,Pizza,9,9,9,9,9,9,9,9,9
+Koramangala 6th Block,"Pizza, Fast Food",9,9,9,9,9,9,9,9,9
+Koramangala 6th Block,South Indian,41,41,41,41,41,41,41,41,41
+Koramangala 6th Block,"South Indian, North Indian",4,4,4,4,4,4,4,4,4
+Koramangala 6th Block,"South Indian, North Indian, Chinese",9,9,9,9,9,9,9,9,9
+Koramangala 7th Block,Bakery,10,10,10,10,10,10,10,10,10
+Koramangala 7th Block,"Bakery, Desserts",11,11,11,11,11,11,11,11,11
+Koramangala 7th Block,"Bakery, Fast Food",11,11,11,11,11,11,11,11,11
+Koramangala 7th Block,Beverages,5,5,5,5,5,5,5,5,5
+Koramangala 7th Block,Biryani,26,26,26,26,26,26,26,26,26
+Koramangala 7th Block,"Biryani, North Indian, Chinese",1,1,1,1,1,1,1,1,1
+Koramangala 7th Block,"Burger, Fast Food",1,1,1,1,1,1,1,1,1
+Koramangala 7th Block,Cafe,21,21,21,21,21,21,21,21,21
+Koramangala 7th Block,"Cafe, Desserts",4,4,4,4,4,4,4,4,4
+Koramangala 7th Block,"Cafe, Fast Food",9,9,9,9,9,9,9,9,9
+Koramangala 7th Block,Chinese,9,9,9,9,9,9,9,9,9
+Koramangala 7th Block,"Chinese, North Indian",5,5,5,5,5,5,5,5,5
+Koramangala 7th Block,"Chinese, Thai",1,1,1,1,1,1,1,1,1
+Koramangala 7th Block,Continental,6,6,6,6,6,6,6,6,6
+Koramangala 7th Block,Desserts,26,26,26,26,26,26,26,26,26
+Koramangala 7th Block,"Desserts, Bakery",11,11,11,11,11,11,11,11,11
+Koramangala 7th Block,"Desserts, Beverages",20,20,20,20,20,20,20,20,20
+Koramangala 7th Block,"Fast Food, Burger",12,12,12,12,12,12,12,12,12
+Koramangala 7th Block,"Ice Cream, Desserts",17,17,17,17,17,17,17,17,17
+Koramangala 7th Block,Kerala,5,5,5,5,5,5,5,5,5
+Koramangala 7th Block,North Indian,98,98,98,98,98,98,98,98,98
+Koramangala 7th Block,"North Indian, Chinese",5,5,5,5,5,5,5,5,5
+Koramangala 7th Block,"North Indian, Chinese, Biryani",5,5,5,5,5,5,5,5,5
+Koramangala 7th Block,"North Indian, Continental",6,6,6,6,6,6,6,6,6
+Koramangala 7th Block,"North Indian, Mughlai",11,11,11,11,11,11,11,11,11
+Koramangala 7th Block,"Pizza, Fast Food",2,2,2,2,2,2,2,2,2
+Koramangala 7th Block,South Indian,11,11,11,11,11,11,11,11,11
+Koramangala 7th Block,"South Indian, Biryani",10,10,10,10,10,10,10,10,10
+Koramangala 7th Block,"South Indian, Chinese",5,5,5,5,5,5,5,5,5
+Koramangala 7th Block,"South Indian, North Indian, Chinese",10,10,10,10,10,10,10,10,10
+Koramangala 7th Block,Street Food,5,5,5,5,5,5,5,5,5
+Lavelle Road,Bakery,20,20,20,20,20,20,20,20,20
+Lavelle Road,"Beverages, Fast Food",6,6,6,6,6,6,6,6,6
+Lavelle Road,Cafe,4,4,4,4,4,4,4,4,4
+Lavelle Road,"Cafe, Fast Food",1,1,1,1,1,1,1,1,1
+Lavelle Road,"Chinese, Momos",14,14,14,14,14,14,14,14,14
+Lavelle Road,Continental,9,9,9,9,9,9,9,9,9
+Lavelle Road,Desserts,8,8,8,8,8,8,8,8,8
+Lavelle Road,"Desserts, Ice Cream",11,11,11,11,11,11,11,11,11
+Lavelle Road,"Ice Cream, Desserts",4,4,4,4,4,4,4,4,4
+Lavelle Road,"North Indian, Mughlai",14,14,14,14,14,14,14,14,14
+MG Road,Bakery,2,2,2,2,2,2,2,2,2
+MG Road,"Bakery, Desserts",1,1,1,1,1,1,1,1,1
+MG Road,"Burger, Fast Food",2,2,2,2,2,2,2,2,2
+MG Road,Cafe,46,46,46,46,46,46,46,46,46
+MG Road,"Cafe, Bakery",20,20,20,20,20,20,20,20,20
+MG Road,"Cafe, Desserts",4,4,4,4,4,4,4,4,4
+MG Road,"Cafe, Fast Food",12,12,12,12,12,12,12,12,12
+MG Road,Chinese,6,6,6,6,6,6,6,6,6
+MG Road,"Chinese, Momos",6,6,6,6,6,6,6,6,6
+MG Road,Continental,11,11,11,11,11,11,11,11,11
+MG Road,Desserts,46,46,46,46,46,46,46,46,46
+MG Road,"Fast Food, Beverages",1,1,1,1,1,1,1,1,1
+MG Road,"Fast Food, Burger",1,1,1,1,1,1,1,1,1
+MG Road,"Mithai, Street Food",11,11,11,11,11,11,11,11,11
+MG Road,North Indian,22,22,22,22,22,22,22,22,22
+MG Road,"North Indian, Chinese",44,44,44,44,44,44,44,44,44
+MG Road,"North Indian, Chinese, Biryani",10,10,10,10,10,10,10,10,10
+MG Road,"North Indian, Chinese, Fast Food",10,10,10,10,10,10,10,10,10
+MG Road,"North Indian, South Indian",15,15,15,15,15,15,15,15,15
+MG Road,"Pizza, Fast Food",11,11,11,11,11,11,11,11,11
+MG Road,South Indian,15,15,15,15,15,15,15,15,15
+MG Road,"South Indian, North Indian, Chinese, Street Food",2,2,2,2,2,2,2,2,2
+MG Road,Street Food,3,3,3,3,3,3,3,3,3
+Malleshwaram,"Andhra, Biryani",4,4,4,4,4,4,4,4,4
+Malleshwaram,Bakery,9,9,9,9,9,9,9,9,9
+Malleshwaram,"Bakery, Desserts",8,8,8,8,8,8,8,8,8
+Malleshwaram,"Bakery, Fast Food",2,2,2,2,2,2,2,2,2
+Malleshwaram,Beverages,2,2,2,2,2,2,2,2,2
+Malleshwaram,"Beverages, Desserts",2,2,2,2,2,2,2,2,2
+Malleshwaram,Biryani,2,2,2,2,2,2,2,2,2
+Malleshwaram,"Biryani, Fast Food",2,2,2,2,2,2,2,2,2
+Malleshwaram,"Biryani, North Indian",5,5,5,5,5,5,5,5,5
+Malleshwaram,"Burger, Fast Food",1,1,1,1,1,1,1,1,1
+Malleshwaram,Cafe,23,23,23,23,23,23,23,23,23
+Malleshwaram,"Cafe, Bakery",2,2,2,2,2,2,2,2,2
+Malleshwaram,"Cafe, Desserts",2,2,2,2,2,2,2,2,2
+Malleshwaram,"Cafe, Fast Food",2,2,2,2,2,2,2,2,2
+Malleshwaram,Chinese,12,12,12,12,12,12,12,12,12
+Malleshwaram,"Chinese, Momos",4,4,4,4,4,4,4,4,4
+Malleshwaram,"Chinese, North Indian",6,6,6,6,6,6,6,6,6
+Malleshwaram,"Chinese, Thai",2,2,2,2,2,2,2,2,2
+Malleshwaram,Continental,6,6,6,6,6,6,6,6,6
+Malleshwaram,Desserts,21,21,21,21,21,21,21,21,21
+Malleshwaram,"Desserts, Bakery",4,4,4,4,4,4,4,4,4
+Malleshwaram,"Desserts, Beverages",4,4,4,4,4,4,4,4,4
+Malleshwaram,"Desserts, Ice Cream",4,4,4,4,4,4,4,4,4
+Malleshwaram,Fast Food,8,8,8,8,8,8,8,8,8
+Malleshwaram,"Fast Food, Beverages",5,5,5,5,5,5,5,5,5
+Malleshwaram,"Fast Food, Burger",1,1,1,1,1,1,1,1,1
+Malleshwaram,"Fast Food, Rolls",3,3,3,3,3,3,3,3,3
+Malleshwaram,Ice Cream,2,2,2,2,2,2,2,2,2
+Malleshwaram,"Ice Cream, Desserts",14,14,14,14,14,14,14,14,14
+Malleshwaram,Mithai,8,8,8,8,8,8,8,8,8
+Malleshwaram,"Mithai, Street Food",9,9,9,9,9,9,9,9,9
+Malleshwaram,North Indian,16,16,16,16,16,16,16,16,16
+Malleshwaram,"North Indian, Chinese",7,7,7,7,7,7,7,7,7
+Malleshwaram,"North Indian, Chinese, Biryani",7,7,7,7,7,7,7,7,7
+Malleshwaram,"North Indian, Chinese, Fast Food",4,4,4,4,4,4,4,4,4
+Malleshwaram,"North Indian, Chinese, Seafood",3,3,3,3,3,3,3,3,3
+Malleshwaram,"North Indian, Continental",4,4,4,4,4,4,4,4,4
+Malleshwaram,"North Indian, Mughlai",6,6,6,6,6,6,6,6,6
+Malleshwaram,"North Indian, South Indian",10,10,10,10,10,10,10,10,10
+Malleshwaram,"North Indian, Street Food",2,2,2,2,2,2,2,2,2
+Malleshwaram,Pizza,8,8,8,8,8,8,8,8,8
+Malleshwaram,"Pizza, Fast Food",9,9,9,9,9,9,9,9,9
+Malleshwaram,South Indian,54,54,54,54,54,54,54,54,54
+Malleshwaram,"South Indian, Biryani",4,4,4,4,4,4,4,4,4
+Malleshwaram,"South Indian, Fast Food",7,7,7,7,7,7,7,7,7
+Malleshwaram,"South Indian, North Indian",3,3,3,3,3,3,3,3,3
+Malleshwaram,"South Indian, North Indian, Chinese",12,12,12,12,12,12,12,12,12
+Malleshwaram,"South Indian, North Indian, Chinese, Street Food",1,1,1,1,1,1,1,1,1
+Malleshwaram,Street Food,5,5,5,5,5,5,5,5,5
+Marathahalli,Andhra,10,10,10,10,10,10,10,10,10
+Marathahalli,"Andhra, Biryani",5,5,5,5,5,5,5,5,5
+Marathahalli,Bakery,12,12,12,12,12,12,12,12,12
+Marathahalli,"Bakery, Desserts",24,24,24,24,24,24,24,24,24
+Marathahalli,"Bakery, Fast Food",4,4,4,4,4,4,4,4,4
+Marathahalli,Beverages,6,6,6,6,6,6,6,6,6
+Marathahalli,"Beverages, Desserts",6,6,6,6,6,6,6,6,6
+Marathahalli,"Beverages, Fast Food",6,6,6,6,6,6,6,6,6
+Marathahalli,Biryani,7,7,7,7,7,7,7,7,7
+Marathahalli,"Biryani, Fast Food",3,3,3,3,3,3,3,3,3
+Marathahalli,"Biryani, Kebab",4,4,4,4,4,4,4,4,4
+Marathahalli,"Biryani, North Indian",8,8,8,8,8,8,8,8,8
+Marathahalli,"Biryani, North Indian, Chinese",16,16,16,16,16,16,16,16,16
+Marathahalli,"Burger, Fast Food",2,2,2,2,2,2,2,2,2
+Marathahalli,Cafe,11,11,11,11,11,11,11,11,11
+Marathahalli,"Cafe, Fast Food",2,2,2,2,2,2,2,2,2
+Marathahalli,Chinese,12,12,12,12,12,12,12,12,12
+Marathahalli,"Chinese, Momos",7,7,7,7,7,7,7,7,7
+Marathahalli,"Chinese, North Indian",17,17,17,17,17,17,17,17,17
+Marathahalli,"Chinese, Thai",9,9,9,9,9,9,9,9,9
+Marathahalli,"Chinese, Thai, Momos",7,7,7,7,7,7,7,7,7
+Marathahalli,Desserts,16,16,16,16,16,16,16,16,16
+Marathahalli,"Desserts, Bakery",12,12,12,12,12,12,12,12,12
+Marathahalli,"Desserts, Beverages",4,4,4,4,4,4,4,4,4
+Marathahalli,"Desserts, Ice Cream",13,13,13,13,13,13,13,13,13
+Marathahalli,Fast Food,13,13,13,13,13,13,13,13,13
+Marathahalli,"Fast Food, Beverages",5,5,5,5,5,5,5,5,5
+Marathahalli,"Fast Food, Burger",3,3,3,3,3,3,3,3,3
+Marathahalli,"Fast Food, Rolls",10,10,10,10,10,10,10,10,10
+Marathahalli,Finger Food,14,14,14,14,14,14,14,14,14
+Marathahalli,"Ice Cream, Desserts",11,11,11,11,11,11,11,11,11
+Marathahalli,"Italian, Pizza",6,6,6,6,6,6,6,6,6
+Marathahalli,Kerala,3,3,3,3,3,3,3,3,3
+Marathahalli,Mithai,1,1,1,1,1,1,1,1,1
+Marathahalli,"Mithai, Street Food",10,10,10,10,10,10,10,10,10
+Marathahalli,North Indian,105,105,105,105,105,105,105,105,105
+Marathahalli,"North Indian, Biryani",15,15,15,15,15,15,15,15,15
+Marathahalli,"North Indian, Chinese",116,116,116,116,116,116,116,116,116
+Marathahalli,"North Indian, Chinese, Biryani",23,23,23,23,23,23,23,23,23
+Marathahalli,"North Indian, Chinese, Continental",2,2,2,2,2,2,2,2,2
+Marathahalli,"North Indian, Chinese, Fast Food",7,7,7,7,7,7,7,7,7
+Marathahalli,"North Indian, Chinese, Seafood",4,4,4,4,4,4,4,4,4
+Marathahalli,"North Indian, Chinese, South Indian",6,6,6,6,6,6,6,6,6
+Marathahalli,"North Indian, Continental",3,3,3,3,3,3,3,3,3
+Marathahalli,"North Indian, Mughlai",4,4,4,4,4,4,4,4,4
+Marathahalli,"North Indian, Mughlai, Chinese",10,10,10,10,10,10,10,10,10
+Marathahalli,"North Indian, South Indian",14,14,14,14,14,14,14,14,14
+Marathahalli,"North Indian, South Indian, Chinese",9,9,9,9,9,9,9,9,9
+Marathahalli,"North Indian, Street Food",14,14,14,14,14,14,14,14,14
+Marathahalli,Pizza,4,4,4,4,4,4,4,4,4
+Marathahalli,"Pizza, Fast Food",4,4,4,4,4,4,4,4,4
+Marathahalli,South Indian,28,28,28,28,28,28,28,28,28
+Marathahalli,"South Indian, Biryani",4,4,4,4,4,4,4,4,4
+Marathahalli,"South Indian, Chinese",9,9,9,9,9,9,9,9,9
+Marathahalli,"South Indian, North Indian",5,5,5,5,5,5,5,5,5
+Marathahalli,"South Indian, North Indian, Chinese",11,11,11,11,11,11,11,11,11
+Marathahalli,Street Food,10,10,10,10,10,10,10,10,10
+New BEL Road,Arabian,2,2,2,2,2,2,2,2,2
+New BEL Road,Bakery,3,3,3,3,3,3,3,3,3
+New BEL Road,"Bakery, Desserts",6,6,6,6,6,6,6,6,6
+New BEL Road,"Bakery, Fast Food",2,2,2,2,2,2,2,2,2
+New BEL Road,"Beverages, Fast Food",2,2,2,2,2,2,2,2,2
+New BEL Road,Biryani,5,5,5,5,5,5,5,5,5
+New BEL Road,"Biryani, North Indian, Chinese",4,4,4,4,4,4,4,4,4
+New BEL Road,"Burger, Fast Food",4,4,4,4,4,4,4,4,4
+New BEL Road,Cafe,5,5,5,5,5,5,5,5,5
+New BEL Road,"Cafe, Bakery",3,3,3,3,3,3,3,3,3
+New BEL Road,"Cafe, Continental",4,4,4,4,4,4,4,4,4
+New BEL Road,"Cafe, Fast Food",4,4,4,4,4,4,4,4,4
+New BEL Road,Chinese,2,2,2,2,2,2,2,2,2
+New BEL Road,"Chinese, Momos",2,2,2,2,2,2,2,2,2
+New BEL Road,"Chinese, North Indian",5,5,5,5,5,5,5,5,5
+New BEL Road,"Chinese, Thai",2,2,2,2,2,2,2,2,2
+New BEL Road,"Chinese, Thai, Momos",3,3,3,3,3,3,3,3,3
+New BEL Road,Continental,2,2,2,2,2,2,2,2,2
+New BEL Road,Desserts,4,4,4,4,4,4,4,4,4
+New BEL Road,"Desserts, Beverages",2,2,2,2,2,2,2,2,2
+New BEL Road,"Desserts, Ice Cream",6,6,6,6,6,6,6,6,6
+New BEL Road,Fast Food,10,10,10,10,10,10,10,10,10
+New BEL Road,"Fast Food, Beverages",8,8,8,8,8,8,8,8,8
+New BEL Road,"Fast Food, Burger",2,2,2,2,2,2,2,2,2
+New BEL Road,"Fast Food, Rolls",3,3,3,3,3,3,3,3,3
+New BEL Road,Ice Cream,3,3,3,3,3,3,3,3,3
+New BEL Road,"Ice Cream, Desserts",3,3,3,3,3,3,3,3,3
+New BEL Road,"Italian, Pizza",3,3,3,3,3,3,3,3,3
+New BEL Road,Kerala,4,4,4,4,4,4,4,4,4
+New BEL Road,"Mithai, Street Food",2,2,2,2,2,2,2,2,2
+New BEL Road,North Indian,21,21,21,21,21,21,21,21,21
+New BEL Road,"North Indian, Chinese",21,21,21,21,21,21,21,21,21
+New BEL Road,"North Indian, Chinese, Biryani",8,8,8,8,8,8,8,8,8
+New BEL Road,"North Indian, Chinese, Fast Food",2,2,2,2,2,2,2,2,2
+New BEL Road,"North Indian, Chinese, Seafood",3,3,3,3,3,3,3,3,3
+New BEL Road,"North Indian, Chinese, South Indian",3,3,3,3,3,3,3,3,3
+New BEL Road,"North Indian, Fast Food",8,8,8,8,8,8,8,8,8
+New BEL Road,"North Indian, Mughlai",2,2,2,2,2,2,2,2,2
+New BEL Road,"North Indian, Mughlai, Chinese",2,2,2,2,2,2,2,2,2
+New BEL Road,"North Indian, South Indian",7,7,7,7,7,7,7,7,7
+New BEL Road,"North Indian, South Indian, Chinese",1,1,1,1,1,1,1,1,1
+New BEL Road,"North Indian, Street Food",2,2,2,2,2,2,2,2,2
+New BEL Road,Pizza,1,1,1,1,1,1,1,1,1
+New BEL Road,"Pizza, Fast Food",4,4,4,4,4,4,4,4,4
+New BEL Road,South Indian,12,12,12,12,12,12,12,12,12
+New BEL Road,"South Indian, Biryani",2,2,2,2,2,2,2,2,2
+New BEL Road,"South Indian, Chinese, North Indian",1,1,1,1,1,1,1,1,1
+New BEL Road,"South Indian, North Indian, Chinese",6,6,6,6,6,6,6,6,6
+New BEL Road,Street Food,4,4,4,4,4,4,4,4,4
+Rajajinagar,Bakery,6,6,6,6,6,6,6,6,6
+Rajajinagar,"Bakery, Desserts",10,10,10,10,10,10,10,10,10
+Rajajinagar,"Bakery, Fast Food",1,1,1,1,1,1,1,1,1
+Rajajinagar,Biryani,12,12,12,12,12,12,12,12,12
+Rajajinagar,"Biryani, Fast Food",4,4,4,4,4,4,4,4,4
+Rajajinagar,"Biryani, Kebab",11,11,11,11,11,11,11,11,11
+Rajajinagar,Cafe,4,4,4,4,4,4,4,4,4
+Rajajinagar,"Cafe, Fast Food",1,1,1,1,1,1,1,1,1
+Rajajinagar,Chinese,4,4,4,4,4,4,4,4,4
+Rajajinagar,"Chinese, Thai",2,2,2,2,2,2,2,2,2
+Rajajinagar,Desserts,7,7,7,7,7,7,7,7,7
+Rajajinagar,"Desserts, Beverages",2,2,2,2,2,2,2,2,2
+Rajajinagar,"Desserts, Ice Cream",2,2,2,2,2,2,2,2,2
+Rajajinagar,Fast Food,12,12,12,12,12,12,12,12,12
+Rajajinagar,"Fast Food, Beverages",3,3,3,3,3,3,3,3,3
+Rajajinagar,"Fast Food, Burger",3,3,3,3,3,3,3,3,3
+Rajajinagar,"Fast Food, Rolls",2,2,2,2,2,2,2,2,2
+Rajajinagar,Ice Cream,6,6,6,6,6,6,6,6,6
+Rajajinagar,"Ice Cream, Desserts",5,5,5,5,5,5,5,5,5
+Rajajinagar,"Mithai, Street Food",6,6,6,6,6,6,6,6,6
+Rajajinagar,North Indian,12,12,12,12,12,12,12,12,12
+Rajajinagar,"North Indian, Chinese",15,15,15,15,15,15,15,15,15
+Rajajinagar,"North Indian, Chinese, Biryani",2,2,2,2,2,2,2,2,2
+Rajajinagar,"North Indian, Chinese, Continental",3,3,3,3,3,3,3,3,3
+Rajajinagar,"North Indian, Continental",4,4,4,4,4,4,4,4,4
+Rajajinagar,"North Indian, Fast Food",7,7,7,7,7,7,7,7,7
+Rajajinagar,"North Indian, South Indian",2,2,2,2,2,2,2,2,2
+Rajajinagar,"North Indian, South Indian, Chinese",22,22,22,22,22,22,22,22,22
+Rajajinagar,Pizza,4,4,4,4,4,4,4,4,4
+Rajajinagar,"Pizza, Fast Food",2,2,2,2,2,2,2,2,2
+Rajajinagar,South Indian,41,41,41,41,41,41,41,41,41
+Rajajinagar,"South Indian, Biryani",13,13,13,13,13,13,13,13,13
+Rajajinagar,"South Indian, Chinese",8,8,8,8,8,8,8,8,8
+Rajajinagar,"South Indian, Chinese, North Indian",2,2,2,2,2,2,2,2,2
+Rajajinagar,"South Indian, Fast Food",2,2,2,2,2,2,2,2,2
+Rajajinagar,"South Indian, North Indian",2,2,2,2,2,2,2,2,2
+Rajajinagar,"South Indian, North Indian, Chinese",7,7,7,7,7,7,7,7,7
+Rajajinagar,"South Indian, North Indian, Chinese, Street Food",8,8,8,8,8,8,8,8,8
+Rajajinagar,Street Food,8,8,8,8,8,8,8,8,8
+Residency Road,"Andhra, Biryani",10,10,10,10,10,10,10,10,10
+Residency Road,Bakery,10,10,10,10,10,10,10,10,10
+Residency Road,"Bakery, Desserts",5,5,5,5,5,5,5,5,5
+Residency Road,Beverages,15,15,15,15,15,15,15,15,15
+Residency Road,"Beverages, Fast Food",2,2,2,2,2,2,2,2,2
+Residency Road,Biryani,14,14,14,14,14,14,14,14,14
+Residency Road,Cafe,15,15,15,15,15,15,15,15,15
+Residency Road,"Cafe, Fast Food",2,2,2,2,2,2,2,2,2
+Residency Road,Chinese,19,19,19,19,19,19,19,19,19
+Residency Road,"Chinese, Momos",10,10,10,10,10,10,10,10,10
+Residency Road,"Chinese, North Indian",23,23,23,23,23,23,23,23,23
+Residency Road,Desserts,8,8,8,8,8,8,8,8,8
+Residency Road,"Desserts, Bakery",3,3,3,3,3,3,3,3,3
+Residency Road,"Desserts, Beverages",9,9,9,9,9,9,9,9,9
+Residency Road,"Fast Food, Beverages",3,3,3,3,3,3,3,3,3
+Residency Road,Finger Food,27,27,27,27,27,27,27,27,27
+Residency Road,"Ice Cream, Desserts",12,12,12,12,12,12,12,12,12
+Residency Road,North Indian,19,19,19,19,19,19,19,19,19
+Residency Road,"North Indian, Chinese",3,3,3,3,3,3,3,3,3
+Residency Road,"North Indian, Chinese, Continental",9,9,9,9,9,9,9,9,9
+Residency Road,"North Indian, Chinese, Fast Food",13,13,13,13,13,13,13,13,13
+Residency Road,"North Indian, Continental",13,13,13,13,13,13,13,13,13
+Residency Road,Pizza,2,2,2,2,2,2,2,2,2
+Residency Road,"South Indian, Biryani",10,10,10,10,10,10,10,10,10
+Residency Road,"South Indian, Chinese",10,10,10,10,10,10,10,10,10
+Residency Road,Street Food,4,4,4,4,4,4,4,4,4
+Richmond Road,Bakery,8,8,8,8,8,8,8,8,8
+Richmond Road,"Bakery, Fast Food",22,22,22,22,22,22,22,22,22
+Richmond Road,Biryani,5,5,5,5,5,5,5,5,5
+Richmond Road,"Biryani, North Indian, Chinese",10,10,10,10,10,10,10,10,10
+Richmond Road,"Biryani, South Indian",24,24,24,24,24,24,24,24,24
+Richmond Road,Cafe,21,21,21,21,21,21,21,21,21
+Richmond Road,Chinese,25,25,25,25,25,25,25,25,25
+Richmond Road,"Chinese, Thai",10,10,10,10,10,10,10,10,10
+Richmond Road,Continental,5,5,5,5,5,5,5,5,5
+Richmond Road,"Desserts, Bakery",10,10,10,10,10,10,10,10,10
+Richmond Road,"Desserts, Beverages",10,10,10,10,10,10,10,10,10
+Richmond Road,Finger Food,13,13,13,13,13,13,13,13,13
+Richmond Road,North Indian,36,36,36,36,36,36,36,36,36
+Richmond Road,"North Indian, Biryani",10,10,10,10,10,10,10,10,10
+Richmond Road,"North Indian, Chinese",36,36,36,36,36,36,36,36,36
+Richmond Road,"North Indian, Chinese, Continental",5,5,5,5,5,5,5,5,5
+Richmond Road,"North Indian, Mughlai",5,5,5,5,5,5,5,5,5
+Richmond Road,"North Indian, South Indian",5,5,5,5,5,5,5,5,5
+Richmond Road,"North Indian, South Indian, Chinese",2,2,2,2,2,2,2,2,2
+Richmond Road,South Indian,19,19,19,19,19,19,19,19,19
+Richmond Road,"South Indian, North Indian",7,7,7,7,7,7,7,7,7
+Richmond Road,"South Indian, North Indian, Chinese",6,6,6,6,6,6,6,6,6
+Sarjapur Road,Andhra,4,4,4,4,4,4,4,4,4
+Sarjapur Road,"Andhra, Biryani",3,3,3,3,3,3,3,3,3
+Sarjapur Road,Arabian,2,2,2,2,2,2,2,2,2
+Sarjapur Road,Bakery,13,13,13,13,13,13,13,13,13
+Sarjapur Road,"Bakery, Desserts",30,30,30,30,30,30,30,30,30
+Sarjapur Road,"Bakery, Fast Food",4,4,4,4,4,4,4,4,4
+Sarjapur Road,"Beverages, Fast Food",3,3,3,3,3,3,3,3,3
+Sarjapur Road,Biryani,16,16,16,16,16,16,16,16,16
+Sarjapur Road,"Biryani, North Indian",13,13,13,13,13,13,13,13,13
+Sarjapur Road,"Biryani, North Indian, Chinese",3,3,3,3,3,3,3,3,3
+Sarjapur Road,"Biryani, South Indian",4,4,4,4,4,4,4,4,4
+Sarjapur Road,"Burger, Fast Food",10,10,10,10,10,10,10,10,10
+Sarjapur Road,Cafe,5,5,5,5,5,5,5,5,5
+Sarjapur Road,"Cafe, Fast Food",8,8,8,8,8,8,8,8,8
+Sarjapur Road,Chinese,2,2,2,2,2,2,2,2,2
+Sarjapur Road,"Chinese, Momos",5,5,5,5,5,5,5,5,5
+Sarjapur Road,"Chinese, North Indian",4,4,4,4,4,4,4,4,4
+Sarjapur Road,"Chinese, Thai",2,2,2,2,2,2,2,2,2
+Sarjapur Road,Continental,2,2,2,2,2,2,2,2,2
+Sarjapur Road,Desserts,15,15,15,15,15,15,15,15,15
+Sarjapur Road,"Desserts, Bakery",8,8,8,8,8,8,8,8,8
+Sarjapur Road,"Desserts, Beverages",3,3,3,3,3,3,3,3,3
+Sarjapur Road,"Desserts, Ice Cream",7,7,7,7,7,7,7,7,7
+Sarjapur Road,Fast Food,9,9,9,9,9,9,9,9,9
+Sarjapur Road,"Fast Food, Beverages",2,2,2,2,2,2,2,2,2
+Sarjapur Road,"Fast Food, Burger",2,2,2,2,2,2,2,2,2
+Sarjapur Road,Ice Cream,2,2,2,2,2,2,2,2,2
+Sarjapur Road,"Ice Cream, Desserts",9,9,9,9,9,9,9,9,9
+Sarjapur Road,"Italian, Pizza",9,9,9,9,9,9,9,9,9
+Sarjapur Road,Kerala,5,5,5,5,5,5,5,5,5
+Sarjapur Road,Mithai,2,2,2,2,2,2,2,2,2
+Sarjapur Road,"Mithai, Street Food",4,4,4,4,4,4,4,4,4
+Sarjapur Road,North Indian,46,46,46,46,46,46,46,46,46
+Sarjapur Road,"North Indian, Biryani",6,6,6,6,6,6,6,6,6
+Sarjapur Road,"North Indian, Chinese",41,41,41,41,41,41,41,41,41
+Sarjapur Road,"North Indian, Chinese, Biryani",12,12,12,12,12,12,12,12,12
+Sarjapur Road,"North Indian, Chinese, Fast Food",2,2,2,2,2,2,2,2,2
+Sarjapur Road,"North Indian, Continental",2,2,2,2,2,2,2,2,2
+Sarjapur Road,"North Indian, Fast Food",7,7,7,7,7,7,7,7,7
+Sarjapur Road,"North Indian, Mughlai, Chinese",2,2,2,2,2,2,2,2,2
+Sarjapur Road,"North Indian, South Indian, Chinese",4,4,4,4,4,4,4,4,4
+Sarjapur Road,"North Indian, Street Food",6,6,6,6,6,6,6,6,6
+Sarjapur Road,"Pizza, Fast Food",7,7,7,7,7,7,7,7,7
+Sarjapur Road,South Indian,18,18,18,18,18,18,18,18,18
+Sarjapur Road,"South Indian, Biryani",4,4,4,4,4,4,4,4,4
+Sarjapur Road,"South Indian, Chinese",2,2,2,2,2,2,2,2,2
+Sarjapur Road,"South Indian, North Indian, Chinese",15,15,15,15,15,15,15,15,15
+Sarjapur Road,"South Indian, North Indian, Chinese, Street Food",1,1,1,1,1,1,1,1,1
+Sarjapur Road,Street Food,2,2,2,2,2,2,2,2,2
+Shanti Nagar,Bakery,10,10,10,10,10,10,10,10,10
+Shanti Nagar,"Bakery, Desserts",13,13,13,13,13,13,13,13,13
+Shanti Nagar,"Beverages, Desserts",4,4,4,4,4,4,4,4,4
+Shanti Nagar,"Beverages, Fast Food",12,12,12,12,12,12,12,12,12
+Shanti Nagar,Biryani,12,12,12,12,12,12,12,12,12
+Shanti Nagar,"Biryani, Fast Food",3,3,3,3,3,3,3,3,3
+Shanti Nagar,"Biryani, Kebab",8,8,8,8,8,8,8,8,8
+Shanti Nagar,Cafe,10,10,10,10,10,10,10,10,10
+Shanti Nagar,"Cafe, Fast Food",4,4,4,4,4,4,4,4,4
+Shanti Nagar,Fast Food,12,12,12,12,12,12,12,12,12
+Shanti Nagar,North Indian,29,29,29,29,29,29,29,29,29
+Shanti Nagar,"North Indian, Chinese",23,23,23,23,23,23,23,23,23
+Shanti Nagar,"North Indian, Chinese, South Indian",4,4,4,4,4,4,4,4,4
+Shanti Nagar,"North Indian, South Indian",8,8,8,8,8,8,8,8,8
+Shanti Nagar,"Pizza, Fast Food",6,6,6,6,6,6,6,6,6
+Shanti Nagar,South Indian,29,29,29,29,29,29,29,29,29
+Shanti Nagar,"South Indian, Chinese",8,8,8,8,8,8,8,8,8
+Shanti Nagar,"South Indian, North Indian, Chinese",5,5,5,5,5,5,5,5,5
+Ulsoor,Arabian,17,17,17,17,17,17,17,17,17
+Ulsoor,Bakery,5,5,5,5,5,5,5,5,5
+Ulsoor,"Bakery, Desserts",27,27,27,27,27,27,27,27,27
+Ulsoor,"Bakery, Fast Food",6,6,6,6,6,6,6,6,6
+Ulsoor,"Beverages, Fast Food",10,10,10,10,10,10,10,10,10
+Ulsoor,Biryani,9,9,9,9,9,9,9,9,9
+Ulsoor,"Biryani, Kebab",6,6,6,6,6,6,6,6,6
+Ulsoor,"Burger, Fast Food",1,1,1,1,1,1,1,1,1
+Ulsoor,Chinese,18,18,18,18,18,18,18,18,18
+Ulsoor,"Chinese, Thai",10,10,10,10,10,10,10,10,10
+Ulsoor,Desserts,12,12,12,12,12,12,12,12,12
+Ulsoor,"Fast Food, Burger",3,3,3,3,3,3,3,3,3
+Ulsoor,Finger Food,8,8,8,8,8,8,8,8,8
+Ulsoor,"Italian, Pizza",5,5,5,5,5,5,5,5,5
+Ulsoor,North Indian,55,55,55,55,55,55,55,55,55
+Ulsoor,"North Indian, Chinese",65,65,65,65,65,65,65,65,65
+Ulsoor,"North Indian, Chinese, Biryani",6,6,6,6,6,6,6,6,6
+Ulsoor,"North Indian, Chinese, South Indian",13,13,13,13,13,13,13,13,13
+Ulsoor,"North Indian, South Indian",11,11,11,11,11,11,11,11,11
+Ulsoor,"North Indian, Street Food",8,8,8,8,8,8,8,8,8
+Ulsoor,South Indian,19,19,19,19,19,19,19,19,19
+Ulsoor,"South Indian, Chinese",11,11,11,11,11,11,11,11,11
+Ulsoor,Street Food,11,11,11,11,11,11,11,11,11
+Whitefield,Andhra,4,4,4,4,4,4,4,4,4
+Whitefield,"Andhra, Biryani",6,6,6,6,6,6,6,6,6
+Whitefield,Arabian,4,4,4,4,4,4,4,4,4
+Whitefield,Bakery,10,10,10,10,10,10,10,10,10
+Whitefield,"Bakery, Desserts",18,18,18,18,18,18,18,18,18
+Whitefield,"Bakery, Fast Food",6,6,6,6,6,6,6,6,6
+Whitefield,Beverages,3,3,3,3,3,3,3,3,3
+Whitefield,"Beverages, Desserts",1,1,1,1,1,1,1,1,1
+Whitefield,"Beverages, Fast Food",3,3,3,3,3,3,3,3,3
+Whitefield,Biryani,29,29,29,29,29,29,29,29,29
+Whitefield,"Biryani, Fast Food",2,2,2,2,2,2,2,2,2
+Whitefield,"Biryani, Kebab",3,3,3,3,3,3,3,3,3
+Whitefield,"Biryani, North Indian",8,8,8,8,8,8,8,8,8
+Whitefield,"Biryani, North Indian, Chinese",8,8,8,8,8,8,8,8,8
+Whitefield,"Burger, Fast Food",5,5,5,5,5,5,5,5,5
+Whitefield,Cafe,24,24,24,24,24,24,24,24,24
+Whitefield,"Cafe, Desserts",6,6,6,6,6,6,6,6,6
+Whitefield,Chinese,17,17,17,17,17,17,17,17,17
+Whitefield,"Chinese, Momos",15,15,15,15,15,15,15,15,15
+Whitefield,"Chinese, North Indian",13,13,13,13,13,13,13,13,13
+Whitefield,"Chinese, Thai",2,2,2,2,2,2,2,2,2
+Whitefield,"Chinese, Thai, Momos",2,2,2,2,2,2,2,2,2
+Whitefield,Continental,10,10,10,10,10,10,10,10,10
+Whitefield,Desserts,20,20,20,20,20,20,20,20,20
+Whitefield,"Desserts, Bakery",11,11,11,11,11,11,11,11,11
+Whitefield,"Desserts, Beverages",3,3,3,3,3,3,3,3,3
+Whitefield,"Desserts, Ice Cream",8,8,8,8,8,8,8,8,8
+Whitefield,Fast Food,16,16,16,16,16,16,16,16,16
+Whitefield,"Fast Food, Beverages",3,3,3,3,3,3,3,3,3
+Whitefield,"Fast Food, Burger",4,4,4,4,4,4,4,4,4
+Whitefield,"Fast Food, Rolls",11,11,11,11,11,11,11,11,11
+Whitefield,Finger Food,27,27,27,27,27,27,27,27,27
+Whitefield,Ice Cream,5,5,5,5,5,5,5,5,5
+Whitefield,"Ice Cream, Desserts",21,21,21,21,21,21,21,21,21
+Whitefield,"Italian, Pizza",2,2,2,2,2,2,2,2,2
+Whitefield,Kerala,13,13,13,13,13,13,13,13,13
+Whitefield,Mithai,10,10,10,10,10,10,10,10,10
+Whitefield,"Mithai, Street Food",18,18,18,18,18,18,18,18,18
+Whitefield,North Indian,137,137,137,137,137,137,137,137,137
+Whitefield,"North Indian, Biryani",13,13,13,13,13,13,13,13,13
+Whitefield,"North Indian, Chinese",73,73,73,73,73,73,73,73,73
+Whitefield,"North Indian, Chinese, Biryani",14,14,14,14,14,14,14,14,14
+Whitefield,"North Indian, Chinese, Continental",4,4,4,4,4,4,4,4,4
+Whitefield,"North Indian, Chinese, Fast Food",7,7,7,7,7,7,7,7,7
+Whitefield,"North Indian, Chinese, South Indian",8,8,8,8,8,8,8,8,8
+Whitefield,"North Indian, Continental",15,15,15,15,15,15,15,15,15
+Whitefield,"North Indian, Fast Food",13,13,13,13,13,13,13,13,13
+Whitefield,"North Indian, Mughlai",16,16,16,16,16,16,16,16,16
+Whitefield,"North Indian, Mughlai, Chinese",12,12,12,12,12,12,12,12,12
+Whitefield,"North Indian, South Indian",4,4,4,4,4,4,4,4,4
+Whitefield,"North Indian, South Indian, Chinese",3,3,3,3,3,3,3,3,3
+Whitefield,"North Indian, Street Food",13,13,13,13,13,13,13,13,13
+Whitefield,Pizza,9,9,9,9,9,9,9,9,9
+Whitefield,"Pizza, Fast Food",2,2,2,2,2,2,2,2,2
+Whitefield,South Indian,35,35,35,35,35,35,35,35,35
+Whitefield,"South Indian, Biryani",1,1,1,1,1,1,1,1,1
+Whitefield,"South Indian, Chinese",1,1,1,1,1,1,1,1,1
+Whitefield,"South Indian, Chinese, North Indian",5,5,5,5,5,5,5,5,5
+Whitefield,"South Indian, Fast Food",1,1,1,1,1,1,1,1,1
+Whitefield,"South Indian, North Indian",3,3,3,3,3,3,3,3,3
+Whitefield,"South Indian, North Indian, Chinese",18,18,18,18,18,18,18,18,18
+Whitefield,"South Indian, North Indian, Chinese, Street Food",4,4,4,4,4,4,4,4,4
+Whitefield,Street Food,5,5,5,5,5,5,5,5,5

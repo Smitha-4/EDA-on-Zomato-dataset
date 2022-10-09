@@ -1,0 +1,631 @@
+location,approx_cost(for two people),name
+BTM,0,19
+BTM,100,22
+BTM,130,8
+BTM,150,78
+BTM,200,209
+BTM,230,10
+BTM,250,178
+BTM,300,485
+BTM,350,46
+BTM,400,344
+BTM,450,44
+BTM,500,263
+BTM,550,20
+BTM,600,125
+BTM,650,26
+BTM,700,20
+BTM,750,12
+BTM,800,9
+BTM,850,5
+BTM,900,21
+BTM,1000,23
+BTM,1100,12
+BTM,1200,13
+BTM,1600,5
+Banashankari,100,21
+Banashankari,150,33
+Banashankari,200,62
+Banashankari,250,17
+Banashankari,300,85
+Banashankari,350,18
+Banashankari,400,31
+Banashankari,450,14
+Banashankari,500,43
+Banashankari,550,1
+Banashankari,600,18
+Banashankari,650,12
+Banashankari,700,9
+Banashankari,750,12
+Banashankari,800,33
+Banashankari,850,5
+Banashankari,900,3
+Banashankari,1000,9
+Banashankari,1300,4
+Banaswadi,0,5
+Banaswadi,100,7
+Banaswadi,150,21
+Banaswadi,200,24
+Banaswadi,250,14
+Banaswadi,300,39
+Banaswadi,350,8
+Banaswadi,400,37
+Banaswadi,450,13
+Banaswadi,500,33
+Banaswadi,550,6
+Banaswadi,600,28
+Banaswadi,650,4
+Banaswadi,700,4
+Banaswadi,800,1
+Banaswadi,1050,4
+Banaswadi,1100,4
+Bannerghatta Road,100,17
+Bannerghatta Road,150,27
+Bannerghatta Road,200,36
+Bannerghatta Road,250,49
+Bannerghatta Road,300,99
+Bannerghatta Road,350,48
+Bannerghatta Road,400,120
+Bannerghatta Road,450,20
+Bannerghatta Road,500,45
+Bannerghatta Road,550,8
+Bannerghatta Road,600,52
+Bannerghatta Road,650,13
+Bannerghatta Road,700,38
+Bannerghatta Road,750,8
+Bannerghatta Road,800,24
+Bannerghatta Road,850,1
+Bannerghatta Road,900,8
+Bannerghatta Road,1000,13
+Bannerghatta Road,1600,2
+Basavanagudi,100,48
+Basavanagudi,150,45
+Basavanagudi,200,65
+Basavanagudi,250,38
+Basavanagudi,300,41
+Basavanagudi,350,2
+Basavanagudi,400,31
+Basavanagudi,450,5
+Basavanagudi,500,17
+Basavanagudi,600,11
+Basavanagudi,700,9
+Basavanagudi,750,5
+Basavanagudi,800,1
+Basavanagudi,900,6
+Basavanagudi,1000,2
+Basavanagudi,2200,6
+Bellandur,100,10
+Bellandur,150,20
+Bellandur,200,59
+Bellandur,250,21
+Bellandur,300,88
+Bellandur,350,13
+Bellandur,400,102
+Bellandur,450,14
+Bellandur,500,70
+Bellandur,550,6
+Bellandur,600,35
+Bellandur,700,11
+Bellandur,750,4
+Bellandur,800,24
+Bellandur,900,6
+Bellandur,950,5
+Bellandur,1000,10
+Bellandur,1100,9
+Bellandur,1200,10
+Bellandur,1400,4
+Bellandur,1500,11
+Brigade Road,150,37
+Brigade Road,180,13
+Brigade Road,200,47
+Brigade Road,250,6
+Brigade Road,300,29
+Brigade Road,350,30
+Brigade Road,400,35
+Brigade Road,450,34
+Brigade Road,500,45
+Brigade Road,550,12
+Brigade Road,600,23
+Brigade Road,650,2
+Brigade Road,700,10
+Brigade Road,750,3
+Brigade Road,800,11
+Brigade Road,900,3
+Brigade Road,1100,24
+Brigade Road,1500,21
+Brookefield,0,1
+Brookefield,150,9
+Brookefield,200,33
+Brookefield,250,30
+Brookefield,300,58
+Brookefield,350,12
+Brookefield,400,46
+Brookefield,450,17
+Brookefield,500,19
+Brookefield,550,2
+Brookefield,600,19
+Brookefield,700,5
+Brookefield,750,7
+Brookefield,800,13
+Brookefield,900,2
+Church Street,150,8
+Church Street,200,5
+Church Street,250,23
+Church Street,300,10
+Church Street,400,21
+Church Street,450,3
+Church Street,500,30
+Church Street,600,37
+Church Street,650,11
+Church Street,700,11
+Church Street,750,3
+Church Street,800,16
+Church Street,1000,2
+Church Street,1300,5
+Church Street,1700,19
+Electronic City,100,4
+Electronic City,150,12
+Electronic City,200,36
+Electronic City,250,31
+Electronic City,300,60
+Electronic City,350,18
+Electronic City,400,86
+Electronic City,450,15
+Electronic City,500,43
+Electronic City,550,5
+Electronic City,600,22
+Electronic City,650,1
+Electronic City,700,17
+Electronic City,750,4
+Electronic City,800,5
+Electronic City,850,3
+Electronic City,900,6
+Electronic City,1000,12
+Electronic City,1200,3
+Electronic City,1500,5
+Electronic City,1800,4
+Frazer Town,0,2
+Frazer Town,100,17
+Frazer Town,150,19
+Frazer Town,200,52
+Frazer Town,250,17
+Frazer Town,300,69
+Frazer Town,350,11
+Frazer Town,400,20
+Frazer Town,450,11
+Frazer Town,500,39
+Frazer Town,600,18
+Frazer Town,700,38
+Frazer Town,750,2
+Frazer Town,850,2
+Frazer Town,900,3
+Frazer Town,1000,4
+HSR,0,14
+HSR,100,21
+HSR,150,59
+HSR,180,4
+HSR,200,64
+HSR,250,72
+HSR,300,156
+HSR,350,34
+HSR,400,171
+HSR,450,42
+HSR,500,97
+HSR,550,19
+HSR,600,56
+HSR,650,16
+HSR,700,29
+HSR,750,12
+HSR,800,40
+HSR,850,4
+HSR,900,7
+HSR,1000,11
+Indiranagar,0,23
+Indiranagar,40,4
+Indiranagar,100,11
+Indiranagar,150,43
+Indiranagar,200,61
+Indiranagar,250,24
+Indiranagar,300,121
+Indiranagar,350,31
+Indiranagar,400,83
+Indiranagar,450,18
+Indiranagar,500,91
+Indiranagar,600,41
+Indiranagar,650,19
+Indiranagar,700,38
+Indiranagar,750,12
+Indiranagar,800,37
+Indiranagar,850,6
+Indiranagar,900,19
+Indiranagar,950,5
+Indiranagar,1000,14
+Indiranagar,1100,14
+Indiranagar,1200,31
+Indiranagar,1500,6
+Indiranagar,1700,6
+JP Nagar,100,16
+JP Nagar,150,24
+JP Nagar,200,98
+JP Nagar,250,33
+JP Nagar,300,121
+JP Nagar,350,27
+JP Nagar,400,99
+JP Nagar,450,47
+JP Nagar,500,105
+JP Nagar,550,5
+JP Nagar,600,69
+JP Nagar,650,15
+JP Nagar,700,14
+JP Nagar,750,9
+JP Nagar,800,29
+JP Nagar,850,2
+JP Nagar,900,7
+JP Nagar,950,8
+JP Nagar,1000,16
+JP Nagar,1100,9
+JP Nagar,1200,21
+Jayanagar,100,58
+Jayanagar,150,30
+Jayanagar,200,103
+Jayanagar,250,47
+Jayanagar,300,97
+Jayanagar,350,37
+Jayanagar,400,203
+Jayanagar,450,19
+Jayanagar,500,22
+Jayanagar,550,33
+Jayanagar,600,42
+Jayanagar,650,6
+Jayanagar,700,12
+Jayanagar,750,1
+Jayanagar,800,13
+Jayanagar,850,4
+Jayanagar,900,23
+Jayanagar,950,6
+Jayanagar,1000,19
+Jayanagar,1200,6
+Jayanagar,1700,4
+Kalyan Nagar,0,1
+Kalyan Nagar,100,6
+Kalyan Nagar,150,8
+Kalyan Nagar,200,13
+Kalyan Nagar,250,9
+Kalyan Nagar,300,37
+Kalyan Nagar,350,18
+Kalyan Nagar,400,42
+Kalyan Nagar,500,55
+Kalyan Nagar,550,4
+Kalyan Nagar,600,14
+Kalyan Nagar,650,12
+Kalyan Nagar,700,23
+Kalyan Nagar,750,17
+Kalyan Nagar,800,14
+Kalyan Nagar,850,1
+Kalyan Nagar,1000,4
+Kalyan Nagar,1100,8
+Kammanahalli,0,1
+Kammanahalli,150,5
+Kammanahalli,200,13
+Kammanahalli,250,17
+Kammanahalli,300,37
+Kammanahalli,350,5
+Kammanahalli,400,26
+Kammanahalli,450,19
+Kammanahalli,500,27
+Kammanahalli,550,4
+Kammanahalli,600,20
+Kammanahalli,650,2
+Kammanahalli,700,8
+Kammanahalli,900,3
+Kammanahalli,1000,4
+Koramangala 1st Block,100,16
+Koramangala 1st Block,150,19
+Koramangala 1st Block,200,70
+Koramangala 1st Block,250,30
+Koramangala 1st Block,300,66
+Koramangala 1st Block,350,48
+Koramangala 1st Block,400,38
+Koramangala 1st Block,450,18
+Koramangala 1st Block,500,77
+Koramangala 1st Block,550,2
+Koramangala 1st Block,600,21
+Koramangala 1st Block,650,8
+Koramangala 1st Block,700,21
+Koramangala 1st Block,750,7
+Koramangala 1st Block,800,2
+Koramangala 1st Block,1200,13
+Koramangala 4th Block,150,3
+Koramangala 4th Block,250,17
+Koramangala 4th Block,300,46
+Koramangala 4th Block,400,62
+Koramangala 4th Block,450,30
+Koramangala 4th Block,500,35
+Koramangala 4th Block,600,16
+Koramangala 4th Block,650,3
+Koramangala 4th Block,700,29
+Koramangala 4th Block,800,19
+Koramangala 4th Block,850,8
+Koramangala 4th Block,1000,22
+Koramangala 4th Block,1300,13
+Koramangala 4th Block,1500,13
+Koramangala 4th Block,1700,14
+Koramangala 5th Block,100,5
+Koramangala 5th Block,150,22
+Koramangala 5th Block,200,73
+Koramangala 5th Block,250,25
+Koramangala 5th Block,300,92
+Koramangala 5th Block,350,16
+Koramangala 5th Block,400,107
+Koramangala 5th Block,500,88
+Koramangala 5th Block,550,11
+Koramangala 5th Block,600,37
+Koramangala 5th Block,650,17
+Koramangala 5th Block,700,9
+Koramangala 5th Block,750,13
+Koramangala 5th Block,800,19
+Koramangala 5th Block,850,8
+Koramangala 5th Block,900,11
+Koramangala 5th Block,1000,18
+Koramangala 5th Block,1100,15
+Koramangala 5th Block,1200,11
+Koramangala 6th Block,150,9
+Koramangala 6th Block,200,18
+Koramangala 6th Block,250,41
+Koramangala 6th Block,300,63
+Koramangala 6th Block,350,10
+Koramangala 6th Block,400,55
+Koramangala 6th Block,450,17
+Koramangala 6th Block,500,60
+Koramangala 6th Block,550,8
+Koramangala 6th Block,600,45
+Koramangala 6th Block,700,28
+Koramangala 6th Block,750,5
+Koramangala 6th Block,800,10
+Koramangala 6th Block,900,1
+Koramangala 6th Block,1000,23
+Koramangala 6th Block,1100,11
+Koramangala 6th Block,1200,8
+Koramangala 7th Block,0,5
+Koramangala 7th Block,150,25
+Koramangala 7th Block,200,21
+Koramangala 7th Block,250,8
+Koramangala 7th Block,300,69
+Koramangala 7th Block,350,4
+Koramangala 7th Block,400,56
+Koramangala 7th Block,450,12
+Koramangala 7th Block,500,57
+Koramangala 7th Block,550,20
+Koramangala 7th Block,600,19
+Koramangala 7th Block,650,23
+Koramangala 7th Block,700,4
+Koramangala 7th Block,750,2
+Koramangala 7th Block,800,12
+Koramangala 7th Block,900,18
+Koramangala 7th Block,1000,5
+Koramangala 7th Block,1500,19
+Lavelle Road,250,10
+Lavelle Road,300,11
+Lavelle Road,350,10
+Lavelle Road,400,10
+Lavelle Road,550,4
+Lavelle Road,650,1
+Lavelle Road,1000,18
+Lavelle Road,1100,4
+Lavelle Road,1300,14
+Lavelle Road,2500,9
+MG Road,200,45
+MG Road,250,18
+MG Road,350,20
+MG Road,400,22
+MG Road,450,13
+MG Road,500,33
+MG Road,600,19
+MG Road,700,23
+MG Road,750,1
+MG Road,800,9
+MG Road,900,8
+MG Road,1000,40
+MG Road,1500,15
+MG Road,2100,12
+MG Road,2500,6
+MG Road,2800,11
+MG Road,3000,6
+Malleshwaram,0,1
+Malleshwaram,100,13
+Malleshwaram,120,2
+Malleshwaram,150,45
+Malleshwaram,200,32
+Malleshwaram,250,35
+Malleshwaram,300,62
+Malleshwaram,350,2
+Malleshwaram,400,50
+Malleshwaram,450,6
+Malleshwaram,500,26
+Malleshwaram,600,9
+Malleshwaram,700,5
+Malleshwaram,750,6
+Malleshwaram,900,2
+Malleshwaram,950,3
+Malleshwaram,1000,14
+Malleshwaram,1100,6
+Malleshwaram,1500,2
+Malleshwaram,1700,6
+Malleshwaram,2000,14
+Marathahalli,0,15
+Marathahalli,100,3
+Marathahalli,150,27
+Marathahalli,200,41
+Marathahalli,250,47
+Marathahalli,300,118
+Marathahalli,350,35
+Marathahalli,400,126
+Marathahalli,450,32
+Marathahalli,500,77
+Marathahalli,550,10
+Marathahalli,600,66
+Marathahalli,650,12
+Marathahalli,700,10
+Marathahalli,750,15
+Marathahalli,800,25
+Marathahalli,850,1
+Marathahalli,900,10
+Marathahalli,1000,16
+Marathahalli,1100,2
+Marathahalli,1200,12
+Marathahalli,1300,2
+Marathahalli,1500,4
+New BEL Road,100,1
+New BEL Road,150,6
+New BEL Road,200,24
+New BEL Road,250,14
+New BEL Road,300,50
+New BEL Road,350,3
+New BEL Road,400,34
+New BEL Road,450,3
+New BEL Road,500,23
+New BEL Road,550,3
+New BEL Road,600,14
+New BEL Road,650,4
+New BEL Road,700,11
+New BEL Road,750,2
+New BEL Road,800,6
+New BEL Road,850,2
+New BEL Road,900,8
+New BEL Road,1000,3
+New BEL Road,1100,3
+New BEL Road,1400,4
+New BEL Road,2000,2
+Rajajinagar,100,7
+Rajajinagar,150,16
+Rajajinagar,200,23
+Rajajinagar,250,13
+Rajajinagar,300,56
+Rajajinagar,350,20
+Rajajinagar,400,53
+Rajajinagar,450,10
+Rajajinagar,500,22
+Rajajinagar,550,2
+Rajajinagar,600,14
+Rajajinagar,650,2
+Rajajinagar,700,7
+Rajajinagar,750,5
+Rajajinagar,800,4
+Rajajinagar,850,2
+Rajajinagar,900,5
+Rajajinagar,1000,6
+Residency Road,0,1
+Residency Road,100,10
+Residency Road,150,5
+Residency Road,200,14
+Residency Road,250,5
+Residency Road,300,18
+Residency Road,350,9
+Residency Road,400,32
+Residency Road,500,33
+Residency Road,550,10
+Residency Road,600,7
+Residency Road,650,3
+Residency Road,750,3
+Residency Road,800,10
+Residency Road,900,2
+Residency Road,1000,39
+Residency Road,1700,9
+Residency Road,1900,10
+Residency Road,2000,23
+Residency Road,3000,9
+Residency Road,3500,9
+Residency Road,4000,9
+Richmond Road,0,8
+Richmond Road,150,4
+Richmond Road,200,32
+Richmond Road,250,7
+Richmond Road,300,62
+Richmond Road,350,27
+Richmond Road,400,10
+Richmond Road,500,30
+Richmond Road,550,16
+Richmond Road,600,22
+Richmond Road,700,14
+Richmond Road,800,10
+Richmond Road,850,10
+Richmond Road,1200,5
+Richmond Road,1700,14
+Richmond Road,2000,13
+Richmond Road,3000,5
+Richmond Road,3500,5
+Sarjapur Road,0,4
+Sarjapur Road,100,4
+Sarjapur Road,150,14
+Sarjapur Road,200,33
+Sarjapur Road,250,18
+Sarjapur Road,300,74
+Sarjapur Road,350,18
+Sarjapur Road,400,50
+Sarjapur Road,450,20
+Sarjapur Road,500,57
+Sarjapur Road,550,4
+Sarjapur Road,600,28
+Sarjapur Road,650,6
+Sarjapur Road,700,12
+Sarjapur Road,750,4
+Sarjapur Road,800,7
+Sarjapur Road,850,2
+Sarjapur Road,900,12
+Sarjapur Road,1000,8
+Sarjapur Road,1200,1
+Sarjapur Road,1400,2
+Sarjapur Road,1500,9
+Shanti Nagar,150,23
+Shanti Nagar,200,14
+Shanti Nagar,250,21
+Shanti Nagar,300,53
+Shanti Nagar,350,13
+Shanti Nagar,400,16
+Shanti Nagar,450,8
+Shanti Nagar,500,41
+Shanti Nagar,600,6
+Shanti Nagar,750,5
+Ulsoor,100,25
+Ulsoor,150,25
+Ulsoor,200,42
+Ulsoor,250,10
+Ulsoor,300,104
+Ulsoor,350,13
+Ulsoor,400,38
+Ulsoor,500,8
+Ulsoor,600,14
+Ulsoor,750,6
+Ulsoor,800,10
+Ulsoor,1000,10
+Ulsoor,1400,16
+Ulsoor,1500,8
+Ulsoor,3000,7
+Whitefield,0,4
+Whitefield,150,21
+Whitefield,200,54
+Whitefield,250,30
+Whitefield,300,131
+Whitefield,350,31
+Whitefield,400,133
+Whitefield,450,41
+Whitefield,500,97
+Whitefield,550,6
+Whitefield,600,53
+Whitefield,650,10
+Whitefield,700,41
+Whitefield,750,9
+Whitefield,800,42
+Whitefield,850,2
+Whitefield,900,8
+Whitefield,1000,8
+Whitefield,1200,12
+Whitefield,1300,1
+Whitefield,1400,2
+Whitefield,1500,14
+Whitefield,1600,3
+Whitefield,1700,10
+Whitefield,1800,5
+Whitefield,1900,3
+Whitefield,2000,15
+Whitefield,2400,1
